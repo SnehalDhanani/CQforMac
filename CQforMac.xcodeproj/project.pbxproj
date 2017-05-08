@@ -1,0 +1,819 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		152CE4FE14DBDC32004A0A5F /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 152CE4FD14DBDC32004A0A5F /* Cocoa.framework */; };
+		152CE50814DBDC32004A0A5F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 152CE50614DBDC32004A0A5F /* InfoPlist.strings */; };
+		152CE50A14DBDC32004A0A5F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 152CE50914DBDC32004A0A5F /* main.m */; };
+		152CE50E14DBDC32004A0A5F /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 152CE50C14DBDC32004A0A5F /* Credits.rtf */; };
+		152CE51114DBDC32004A0A5F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 152CE51014DBDC32004A0A5F /* AppDelegate.m */; };
+		152CE51414DBDC32004A0A5F /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 152CE51214DBDC32004A0A5F /* MainMenu.xib */; };
+		152CE51C14DBDD7D004A0A5F /* MainWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = 152CE51B14DBDD7D004A0A5F /* MainWindow.m */; };
+		152CE51E14DBDE04004A0A5F /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 152CE51D14DBDE04004A0A5F /* MainWindow.xib */; };
+		156E27181684459400EDD3C3 /* icon.icns in Resources */ = {isa = PBXBuildFile; fileRef = 156E27171684459400EDD3C3 /* icon.icns */; };
+		15840C80153D8BB6003C39A2 /* 13364723-two-pharmacists-with-big-pill.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C53153D8BB6003C39A2 /* 13364723-two-pharmacists-with-big-pill.jpg */; };
+		15840C81153D8BB6003C39A2 /* 1301617887Z3m4Z9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C54153D8BB6003C39A2 /* 1301617887Z3m4Z9.jpg */; };
+		15840C82153D8BB6003C39A2 /* advice.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C55153D8BB6003C39A2 /* advice.jpg */; };
+		15840C83153D8BB6003C39A2 /* angry-guy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C56153D8BB6003C39A2 /* angry-guy.jpg */; };
+		15840C84153D8BB6003C39A2 /* anxiety-worried-womanjpg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C57153D8BB6003C39A2 /* anxiety-worried-womanjpg.jpg */; };
+		15840C85153D8BB6003C39A2 /* ask_patient.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C58153D8BB6003C39A2 /* ask_patient.jpg */; };
+		15840C86153D8BB6003C39A2 /* backpain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C59153D8BB6003C39A2 /* backpain.jpg */; };
+		15840C87153D8BB6003C39A2 /* bad-breath-treatment-halitosis.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C5A153D8BB6003C39A2 /* bad-breath-treatment-halitosis.jpg */; };
+		15840C88153D8BB6003C39A2 /* Blood_Transfusion.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C5B153D8BB6003C39A2 /* Blood_Transfusion.jpg */; };
+		15840C89153D8BB6003C39A2 /* confidential.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C5C153D8BB6003C39A2 /* confidential.jpg */; };
+		15840C8A153D8BB6003C39A2 /* cough1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C5D153D8BB6003C39A2 /* cough1.jpg */; };
+		15840C8B153D8BB6003C39A2 /* cough2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C5E153D8BB6003C39A2 /* cough2.jpg */; };
+		15840C8C153D8BB6003C39A2 /* cough3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C5F153D8BB6003C39A2 /* cough3.jpg */; };
+		15840C8D153D8BB6003C39A2 /* coumadinLogo-3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C60153D8BB6003C39A2 /* coumadinLogo-3.jpg */; };
+		15840C8E153D8BB6003C39A2 /* curious.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C61153D8BB6003C39A2 /* curious.jpg */; };
+		15840C8F153D8BB6003C39A2 /* deafsymbol.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C62153D8BB6003C39A2 /* deafsymbol.jpg */; };
+		15840C90153D8BB6003C39A2 /* doc-pa.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C63153D8BB6003C39A2 /* doc-pa.jpg */; };
+		15840C91153D8BB6003C39A2 /* doctor2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C64153D8BB6003C39A2 /* doctor2.jpg */; };
+		15840C92153D8BB6003C39A2 /* doctor5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C65153D8BB6003C39A2 /* doctor5.jpg */; };
+		15840C93153D8BB6003C39A2 /* domestic.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C66153D8BB6003C39A2 /* domestic.jpg */; };
+		15840C94153D8BB6003C39A2 /* domestic2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C67153D8BB6003C39A2 /* domestic2.jpg */; };
+		15840C95153D8BB6003C39A2 /* elder_abuse2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C68153D8BB6003C39A2 /* elder_abuse2.jpg */; };
+		15840C96153D8BB6003C39A2 /* explain2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C69153D8BB6003C39A2 /* explain2.jpg */; };
+		15840C97153D8BB6003C39A2 /* getty_rf_photo_of_wrist_pain_caused_by_crohns.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C6A153D8BB6003C39A2 /* getty_rf_photo_of_wrist_pain_caused_by_crohns.jpg */; };
+		15840C98153D8BB6003C39A2 /* hemoptysis.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C6B153D8BB6003C39A2 /* hemoptysis.jpg */; };
+		15840C99153D8BB6003C39A2 /* history.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C6C153D8BB6003C39A2 /* history.jpg */; };
+		15840C9A153D8BB6003C39A2 /* images-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C6D153D8BB6003C39A2 /* images-1.jpg */; };
+		15840C9B153D8BB6003C39A2 /* medicine.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C6E153D8BB6003C39A2 /* medicine.jpg */; };
+		15840C9C153D8BB6003C39A2 /* NU119018.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C6F153D8BB6003C39A2 /* NU119018.jpg */; };
+		15840C9D153D8BB6003C39A2 /* palpitations_lg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C70153D8BB6003C39A2 /* palpitations_lg.jpg */; };
+		15840C9E153D8BB6003C39A2 /* people-lady-lying-pain-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C71153D8BB6003C39A2 /* people-lady-lying-pain-1.jpg */; };
+		15840C9F153D8BB6003C39A2 /* sad2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C72153D8BB6003C39A2 /* sad2.jpg */; };
+		15840CA0153D8BB6003C39A2 /* sad3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C73153D8BB6003C39A2 /* sad3.jpg */; };
+		15840CA1153D8BB6003C39A2 /* sad4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C74153D8BB6003C39A2 /* sad4.jpg */; };
+		15840CA2153D8BB6003C39A2 /* short_of_breath.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C75153D8BB6003C39A2 /* short_of_breath.jpg */; };
+		15840CA3153D8BB6003C39A2 /* Sleepingpills.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C76153D8BB6003C39A2 /* Sleepingpills.jpg */; };
+		15840CA4153D8BB6003C39A2 /* smoking.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C77153D8BB6003C39A2 /* smoking.jpg */; };
+		15840CA5153D8BB6003C39A2 /* smoking3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C78153D8BB6003C39A2 /* smoking3.jpg */; };
+		15840CA6153D8BB6003C39A2 /* sore.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C79153D8BB6003C39A2 /* sore.jpg */; };
+		15840CA7153D8BB6003C39A2 /* sore2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C7A153D8BB6003C39A2 /* sore2.jpg */; };
+		15840CA8153D8BB6003C39A2 /* STD.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C7B153D8BB6003C39A2 /* STD.jpg */; };
+		15840CA9153D8BB6003C39A2 /* test2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C7C153D8BB6003C39A2 /* test2.jpg */; };
+		15840CAA153D8BB6003C39A2 /* weight.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C7D153D8BB6003C39A2 /* weight.jpg */; };
+		15840CAB153D8BB6003C39A2 /* weight2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C7E153D8BB6003C39A2 /* weight2.jpg */; };
+		15840CAC153D8BB6003C39A2 /* worried.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15840C7F153D8BB6003C39A2 /* worried.jpg */; };
+		15840CAF153D8BEE003C39A2 /* 10626694-doctor.png in Resources */ = {isa = PBXBuildFile; fileRef = 15840CAE153D8BEE003C39A2 /* 10626694-doctor.png */; };
+		1594055C15419EBF00EF8EFF /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1594055B15419EBF00EF8EFF /* Security.framework */; };
+		1594055E15419EEB00EF8EFF /* IOKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1594055D15419EEB00EF8EFF /* IOKit.framework */; };
+		159803BA154EAE1F00D7776A /* 1255352890QVmjp4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 159803B9154EAE1F00D7776A /* 1255352890QVmjp4.jpg */; };
+		159803BC154EAE2500D7776A /* Antibiotics_250x250.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 159803BB154EAE2500D7776A /* Antibiotics_250x250.jpg */; };
+		159803BE154EAE4500D7776A /* back-pain-921.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 159803BD154EAE4500D7776A /* back-pain-921.jpg */; };
+		159803C0154EAE4900D7776A /* calcium_D_1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 159803BF154EAE4900D7776A /* calcium_D_1.jpg */; };
+		159803C8154EAE5000D7776A /* heartburn01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 159803C1154EAE5000D7776A /* heartburn01.jpg */; };
+		159803C9154EAE5000D7776A /* heelpain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 159803C2154EAE5000D7776A /* heelpain.jpg */; };
+		159803CA154EAE5000D7776A /* herbal-medicine.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 159803C3154EAE5000D7776A /* herbal-medicine.jpg */; };
+		159803CB154EAE5000D7776A /* hip.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 159803C4154EAE5000D7776A /* hip.jpg */; };
+		159803CC154EAE5000D7776A /* images-(2).jpg in Resources */ = {isa = PBXBuildFile; fileRef = 159803C5154EAE5000D7776A /* images-(2).jpg */; };
+		159803CD154EAE5000D7776A /* images-(3).jpg in Resources */ = {isa = PBXBuildFile; fileRef = 159803C6154EAE5000D7776A /* images-(3).jpg */; };
+		159803CE154EAE5000D7776A /* images11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 159803C7154EAE5000D7776A /* images11.jpg */; };
+		159803D6154EAE5700D7776A /* insulin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 159803CF154EAE5700D7776A /* insulin.jpg */; };
+		159803D7154EAE5700D7776A /* istockphoto_5193311-doctor-patient-relationship.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 159803D0154EAE5700D7776A /* istockphoto_5193311-doctor-patient-relationship.jpg */; };
+		159803D8154EAE5700D7776A /* knee-pain-4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 159803D1154EAE5700D7776A /* knee-pain-4.jpg */; };
+		159803D9154EAE5700D7776A /* knee-pain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 159803D2154EAE5700D7776A /* knee-pain.jpg */; };
+		159803DA154EAE5700D7776A /* lower-back-pain1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 159803D3154EAE5700D7776A /* lower-back-pain1.jpg */; };
+		159803DB154EAE5700D7776A /* medical terminology.gif in Resources */ = {isa = PBXBuildFile; fileRef = 159803D4154EAE5700D7776A /* medical terminology.gif */; };
+		159803DC154EAE5700D7776A /* Medical_breathing_tube.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 159803D5154EAE5700D7776A /* Medical_breathing_tube.jpg */; };
+		159803E2154EAE5E00D7776A /* Mid-Back-Pain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 159803DD154EAE5E00D7776A /* Mid-Back-Pain.jpg */; };
+		159803E3154EAE5E00D7776A /* stomacheache.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 159803DE154EAE5E00D7776A /* stomacheache.jpg */; };
+		159803E4154EAE5E00D7776A /* SuperStock_1566-448644.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 159803DF154EAE5E00D7776A /* SuperStock_1566-448644.jpg */; };
+		159803E5154EAE5E00D7776A /* WEAKNESS.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 159803E0154EAE5E00D7776A /* WEAKNESS.jpg */; };
+		159803E6154EAE5E00D7776A /* wristpain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 159803E1154EAE5E00D7776A /* wristpain.jpg */; };
+		159803E8154EAE6300D7776A /* 01-old-patient-nurse.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 159803E7154EAE6300D7776A /* 01-old-patient-nurse.jpg */; };
+		159803EA154EAEE900D7776A /* dpctor22.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 159803E9154EAEE900D7776A /* dpctor22.jpg */; };
+		159803EC154EAF0700D7776A /* cough-treatment.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 159803EB154EAF0700D7776A /* cough-treatment.jpg */; };
+		159803EE154EB03100D7776A /* 265125-Tuberculosis240x240.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 159803ED154EB03000D7776A /* 265125-Tuberculosis240x240.jpg */; };
+		159803F0154EB07600D7776A /* medical terminology.gif in Resources */ = {isa = PBXBuildFile; fileRef = 159803EF154EB07600D7776A /* medical terminology.gif */; };
+		159803F2154EB0F400D7776A /* 172.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 159803F1154EB0F400D7776A /* 172.jpg */; };
+		159803F6154EB20E00D7776A /* review-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 159803F5154EB20E00D7776A /* review-1.jpg */; };
+		159803F8154EB25E00D7776A /* arrow-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 159803F7154EB25D00D7776A /* arrow-1.png */; };
+		159803FA154EB2D600D7776A /* plain_back.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 159803F9154EB2D500D7776A /* plain_back.jpg */; };
+		159803FC154EB7CF00D7776A /* arrow.png in Resources */ = {isa = PBXBuildFile; fileRef = 159803FB154EB7CE00D7776A /* arrow.png */; };
+		15B023F514FCB8C10021C823 /* FirstWindowCOntroller.m in Sources */ = {isa = PBXBuildFile; fileRef = 15B023F414FCB8C10021C823 /* FirstWindowCOntroller.m */; };
+		15B023F814FCB8D80021C823 /* FirstWindowCOntroller.xib in Resources */ = {isa = PBXBuildFile; fileRef = 15B023F714FCB8D80021C823 /* FirstWindowCOntroller.xib */; };
+		15B0240414FCD26A0021C823 /* mainbtn4.png in Resources */ = {isa = PBXBuildFile; fileRef = 15B0240314FCD26A0021C823 /* mainbtn4.png */; };
+		15B2D4011534156E00D50361 /* ReviewQuestionWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = 15B2D4001534156E00D50361 /* ReviewQuestionWindow.m */; };
+		15B2D4041534158600D50361 /* ReviewQuestionWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 15B2D4031534158600D50361 /* ReviewQuestionWindow.xib */; };
+		15B400F5152323F20073C9DC /* cat2.png in Resources */ = {isa = PBXBuildFile; fileRef = 15B400F4152323F20073C9DC /* cat2.png */; };
+		15B400F8152324D70073C9DC /* cat1.png in Resources */ = {isa = PBXBuildFile; fileRef = 15B400F7152324D70073C9DC /* cat1.png */; };
+		15B400FF152326480073C9DC /* cat3.png in Resources */ = {isa = PBXBuildFile; fileRef = 15B400FD152326480073C9DC /* cat3.png */; };
+		15B40100152326480073C9DC /* cat4.png in Resources */ = {isa = PBXBuildFile; fileRef = 15B400FE152326480073C9DC /* cat4.png */; };
+		15B9B27E153E91720089A370 /* score back.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15B9B27D153E91720089A370 /* score back.jpg */; };
+		15B9B2D7153EB2650089A370 /* RSVerticallyCenteredTextFieldCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 15B9B2D6153EB2650089A370 /* RSVerticallyCenteredTextFieldCell.m */; };
+		15BBCF0A1525A58F0065C3E9 /* sad.png in Resources */ = {isa = PBXBuildFile; fileRef = 15BBCF081525A58F0065C3E9 /* sad.png */; };
+		15BBCF0B1525A58F0065C3E9 /* smiley_happy.png in Resources */ = {isa = PBXBuildFile; fileRef = 15BBCF091525A58F0065C3E9 /* smiley_happy.png */; };
+		15C07E36152C591800033370 /* sound.png in Resources */ = {isa = PBXBuildFile; fileRef = 15C07E34152C591800033370 /* sound.png */; };
+		15C07E37152C591800033370 /* sound_accept.png in Resources */ = {isa = PBXBuildFile; fileRef = 15C07E35152C591800033370 /* sound_accept.png */; };
+		15C07E3A152C5C2F00033370 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 15C07E39152C5C2F00033370 /* AVFoundation.framework */; };
+		15C07E3F152C64C700033370 /* incorrect2.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 15C07E3B152C64C700033370 /* incorrect2.m4a */; };
+		15C07E40152C64C700033370 /* music.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 15C07E3C152C64C700033370 /* music.m4a */; };
+		15C07E41152C64C700033370 /* quizsound.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 15C07E3D152C64C700033370 /* quizsound.m4a */; };
+		15C07E42152C64C700033370 /* Winner.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 15C07E3E152C64C700033370 /* Winner.m4a */; };
+		15C07E44152C668B00033370 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 15C07E43152C668B00033370 /* QuartzCore.framework */; };
+		15C2996114FE462A003AE584 /* lets_play.png in Resources */ = {isa = PBXBuildFile; fileRef = 15C2996014FE462A003AE584 /* lets_play.png */; };
+		15C44328154E9E76002702AE /* file4.txt in Resources */ = {isa = PBXBuildFile; fileRef = 15C44323154E9E3E002702AE /* file4.txt */; };
+		15C44329154E9E76002702AE /* file1.txt in Resources */ = {isa = PBXBuildFile; fileRef = 15C44324154E9E41002702AE /* file1.txt */; };
+		15C4432A154E9E76002702AE /* file5.txt in Resources */ = {isa = PBXBuildFile; fileRef = 15C44325154E9E49002702AE /* file5.txt */; };
+		15C4432B154E9E76002702AE /* file2.txt in Resources */ = {isa = PBXBuildFile; fileRef = 15C44326154E9E56002702AE /* file2.txt */; };
+		15C4432C154E9E76002702AE /* file3.txt in Resources */ = {isa = PBXBuildFile; fileRef = 15C44327154E9E64002702AE /* file3.txt */; };
+		15C4432E154EA90A002702AE /* cq_mainback-landscape-4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15C4432D154EA909002702AE /* cq_mainback-landscape-4.jpg */; };
+		15C44334154EAB52002702AE /* back-pain-921.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15C44333154EAB52002702AE /* back-pain-921.jpg */; };
+		15C44337154EABC6002702AE /* lower-back-pain1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15C44336154EABC6002702AE /* lower-back-pain1.jpg */; };
+		15C44339154EABFF002702AE /* heelpain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15C44338154EABFE002702AE /* heelpain.jpg */; };
+		15C4433B154EAC57002702AE /* heartburn01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15C4433A154EAC57002702AE /* heartburn01.jpg */; };
+		15CF8B9C1529981D009138DA /* reviewnow.png in Resources */ = {isa = PBXBuildFile; fileRef = 15CF8B9B1529981D009138DA /* reviewnow.png */; };
+		15E1CA8D154025DD00C8A9C7 /* quiz_main-2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15E1CA8C154025DD00C8A9C7 /* quiz_main-2.jpg */; };
+		15E1CA90154031F600C8A9C7 /* home.png in Resources */ = {isa = PBXBuildFile; fileRef = 15E1CA8F154031F600C8A9C7 /* home.png */; };
+		15E1CA921540330400C8A9C7 /* final_screen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15E1CA911540330400C8A9C7 /* final_screen.jpg */; };
+		15E9433915272F5C0060CFD2 /* ReviewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 15E9433815272F5C0060CFD2 /* ReviewController.m */; };
+		15E9433B15272F850060CFD2 /* ReviewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 15E9433A15272F840060CFD2 /* ReviewController.xib */; };
+		15F54C90153C215700E347E1 /* pop_up.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15F54C8F153C215700E347E1 /* pop_up.jpg */; };
+		15F54C92153C216C00E347E1 /* Intro_back.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15F54C91153C216B00E347E1 /* Intro_back.jpg */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		152CE4F914DBDC32004A0A5F /* COMLEX Level 2 PE Challenging Questions.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "COMLEX Level 2 PE Challenging Questions.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		152CE4FD14DBDC32004A0A5F /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		152CE50014DBDC32004A0A5F /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		152CE50114DBDC32004A0A5F /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		152CE50214DBDC32004A0A5F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		152CE50514DBDC32004A0A5F /* CQforMac-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CQforMac-Info.plist"; sourceTree = "<group>"; };
+		152CE50714DBDC32004A0A5F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		152CE50914DBDC32004A0A5F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		152CE50B14DBDC32004A0A5F /* CQforMac-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CQforMac-Prefix.pch"; sourceTree = "<group>"; };
+		152CE50D14DBDC32004A0A5F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
+		152CE50F14DBDC32004A0A5F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		152CE51014DBDC32004A0A5F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		152CE51314DBDC32004A0A5F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		152CE51A14DBDD7D004A0A5F /* MainWindow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainWindow.h; sourceTree = "<group>"; };
+		152CE51B14DBDD7D004A0A5F /* MainWindow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainWindow.m; sourceTree = "<group>"; };
+		152CE51D14DBDE04004A0A5F /* MainWindow.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		156E27171684459400EDD3C3 /* icon.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = icon.icns; sourceTree = "<group>"; };
+		15840C53153D8BB6003C39A2 /* 13364723-two-pharmacists-with-big-pill.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "13364723-two-pharmacists-with-big-pill.jpg"; sourceTree = "<group>"; };
+		15840C54153D8BB6003C39A2 /* 1301617887Z3m4Z9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1301617887Z3m4Z9.jpg; sourceTree = "<group>"; };
+		15840C55153D8BB6003C39A2 /* advice.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = advice.jpg; sourceTree = "<group>"; };
+		15840C56153D8BB6003C39A2 /* angry-guy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "angry-guy.jpg"; sourceTree = "<group>"; };
+		15840C57153D8BB6003C39A2 /* anxiety-worried-womanjpg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "anxiety-worried-womanjpg.jpg"; sourceTree = "<group>"; };
+		15840C58153D8BB6003C39A2 /* ask_patient.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ask_patient.jpg; sourceTree = "<group>"; };
+		15840C59153D8BB6003C39A2 /* backpain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = backpain.jpg; sourceTree = "<group>"; };
+		15840C5A153D8BB6003C39A2 /* bad-breath-treatment-halitosis.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "bad-breath-treatment-halitosis.jpg"; sourceTree = "<group>"; };
+		15840C5B153D8BB6003C39A2 /* Blood_Transfusion.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Blood_Transfusion.jpg; sourceTree = "<group>"; };
+		15840C5C153D8BB6003C39A2 /* confidential.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = confidential.jpg; sourceTree = "<group>"; };
+		15840C5D153D8BB6003C39A2 /* cough1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cough1.jpg; sourceTree = "<group>"; };
+		15840C5E153D8BB6003C39A2 /* cough2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cough2.jpg; sourceTree = "<group>"; };
+		15840C5F153D8BB6003C39A2 /* cough3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cough3.jpg; sourceTree = "<group>"; };
+		15840C60153D8BB6003C39A2 /* coumadinLogo-3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "coumadinLogo-3.jpg"; sourceTree = "<group>"; };
+		15840C61153D8BB6003C39A2 /* curious.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = curious.jpg; sourceTree = "<group>"; };
+		15840C62153D8BB6003C39A2 /* deafsymbol.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = deafsymbol.jpg; sourceTree = "<group>"; };
+		15840C63153D8BB6003C39A2 /* doc-pa.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "doc-pa.jpg"; sourceTree = "<group>"; };
+		15840C64153D8BB6003C39A2 /* doctor2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = doctor2.jpg; sourceTree = "<group>"; };
+		15840C65153D8BB6003C39A2 /* doctor5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = doctor5.jpg; sourceTree = "<group>"; };
+		15840C66153D8BB6003C39A2 /* domestic.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = domestic.jpg; sourceTree = "<group>"; };
+		15840C67153D8BB6003C39A2 /* domestic2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = domestic2.jpg; sourceTree = "<group>"; };
+		15840C68153D8BB6003C39A2 /* elder_abuse2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = elder_abuse2.jpg; sourceTree = "<group>"; };
+		15840C69153D8BB6003C39A2 /* explain2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = explain2.jpg; sourceTree = "<group>"; };
+		15840C6A153D8BB6003C39A2 /* getty_rf_photo_of_wrist_pain_caused_by_crohns.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = getty_rf_photo_of_wrist_pain_caused_by_crohns.jpg; sourceTree = "<group>"; };
+		15840C6B153D8BB6003C39A2 /* hemoptysis.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hemoptysis.jpg; sourceTree = "<group>"; };
+		15840C6C153D8BB6003C39A2 /* history.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = history.jpg; sourceTree = "<group>"; };
+		15840C6D153D8BB6003C39A2 /* images-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "images-1.jpg"; sourceTree = "<group>"; };
+		15840C6E153D8BB6003C39A2 /* medicine.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = medicine.jpg; sourceTree = "<group>"; };
+		15840C6F153D8BB6003C39A2 /* NU119018.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = NU119018.jpg; sourceTree = "<group>"; };
+		15840C70153D8BB6003C39A2 /* palpitations_lg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = palpitations_lg.jpg; sourceTree = "<group>"; };
+		15840C71153D8BB6003C39A2 /* people-lady-lying-pain-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "people-lady-lying-pain-1.jpg"; sourceTree = "<group>"; };
+		15840C72153D8BB6003C39A2 /* sad2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sad2.jpg; sourceTree = "<group>"; };
+		15840C73153D8BB6003C39A2 /* sad3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sad3.jpg; sourceTree = "<group>"; };
+		15840C74153D8BB6003C39A2 /* sad4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sad4.jpg; sourceTree = "<group>"; };
+		15840C75153D8BB6003C39A2 /* short_of_breath.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = short_of_breath.jpg; sourceTree = "<group>"; };
+		15840C76153D8BB6003C39A2 /* Sleepingpills.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sleepingpills.jpg; sourceTree = "<group>"; };
+		15840C77153D8BB6003C39A2 /* smoking.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = smoking.jpg; sourceTree = "<group>"; };
+		15840C78153D8BB6003C39A2 /* smoking3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = smoking3.jpg; sourceTree = "<group>"; };
+		15840C79153D8BB6003C39A2 /* sore.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sore.jpg; sourceTree = "<group>"; };
+		15840C7A153D8BB6003C39A2 /* sore2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sore2.jpg; sourceTree = "<group>"; };
+		15840C7B153D8BB6003C39A2 /* STD.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = STD.jpg; sourceTree = "<group>"; };
+		15840C7C153D8BB6003C39A2 /* test2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = test2.jpg; sourceTree = "<group>"; };
+		15840C7D153D8BB6003C39A2 /* weight.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = weight.jpg; sourceTree = "<group>"; };
+		15840C7E153D8BB6003C39A2 /* weight2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = weight2.jpg; sourceTree = "<group>"; };
+		15840C7F153D8BB6003C39A2 /* worried.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = worried.jpg; sourceTree = "<group>"; };
+		15840CAE153D8BEE003C39A2 /* 10626694-doctor.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "10626694-doctor.png"; sourceTree = "<group>"; };
+		1594055915419E4500EF8EFF /* libcrypto.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libcrypto.dylib; path = usr/lib/libcrypto.dylib; sourceTree = SDKROOT; };
+		1594055B15419EBF00EF8EFF /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		1594055D15419EEB00EF8EFF /* IOKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = IOKit.framework; path = System/Library/Frameworks/IOKit.framework; sourceTree = SDKROOT; };
+		159803B9154EAE1F00D7776A /* 1255352890QVmjp4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1255352890QVmjp4.jpg; sourceTree = "<group>"; };
+		159803BB154EAE2500D7776A /* Antibiotics_250x250.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Antibiotics_250x250.jpg; sourceTree = "<group>"; };
+		159803BD154EAE4500D7776A /* back-pain-921.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "back-pain-921.jpg"; sourceTree = "<group>"; };
+		159803BF154EAE4900D7776A /* calcium_D_1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = calcium_D_1.jpg; sourceTree = "<group>"; };
+		159803C1154EAE5000D7776A /* heartburn01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = heartburn01.jpg; sourceTree = "<group>"; };
+		159803C2154EAE5000D7776A /* heelpain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = heelpain.jpg; sourceTree = "<group>"; };
+		159803C3154EAE5000D7776A /* herbal-medicine.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "herbal-medicine.jpg"; sourceTree = "<group>"; };
+		159803C4154EAE5000D7776A /* hip.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hip.jpg; sourceTree = "<group>"; };
+		159803C5154EAE5000D7776A /* images-(2).jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "images-(2).jpg"; sourceTree = "<group>"; };
+		159803C6154EAE5000D7776A /* images-(3).jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "images-(3).jpg"; sourceTree = "<group>"; };
+		159803C7154EAE5000D7776A /* images11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = images11.jpg; sourceTree = "<group>"; };
+		159803CF154EAE5700D7776A /* insulin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = insulin.jpg; sourceTree = "<group>"; };
+		159803D0154EAE5700D7776A /* istockphoto_5193311-doctor-patient-relationship.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "istockphoto_5193311-doctor-patient-relationship.jpg"; sourceTree = "<group>"; };
+		159803D1154EAE5700D7776A /* knee-pain-4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "knee-pain-4.jpg"; sourceTree = "<group>"; };
+		159803D2154EAE5700D7776A /* knee-pain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "knee-pain.jpg"; sourceTree = "<group>"; };
+		159803D3154EAE5700D7776A /* lower-back-pain1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "lower-back-pain1.jpg"; sourceTree = "<group>"; };
+		159803D4154EAE5700D7776A /* medical terminology.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "medical terminology.gif"; sourceTree = "<group>"; };
+		159803D5154EAE5700D7776A /* Medical_breathing_tube.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Medical_breathing_tube.jpg; sourceTree = "<group>"; };
+		159803DD154EAE5E00D7776A /* Mid-Back-Pain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Mid-Back-Pain.jpg"; sourceTree = "<group>"; };
+		159803DE154EAE5E00D7776A /* stomacheache.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stomacheache.jpg; sourceTree = "<group>"; };
+		159803DF154EAE5E00D7776A /* SuperStock_1566-448644.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "SuperStock_1566-448644.jpg"; sourceTree = "<group>"; };
+		159803E0154EAE5E00D7776A /* WEAKNESS.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = WEAKNESS.jpg; sourceTree = "<group>"; };
+		159803E1154EAE5E00D7776A /* wristpain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wristpain.jpg; sourceTree = "<group>"; };
+		159803E7154EAE6300D7776A /* 01-old-patient-nurse.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "01-old-patient-nurse.jpg"; sourceTree = "<group>"; };
+		159803E9154EAEE900D7776A /* dpctor22.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dpctor22.jpg; sourceTree = "<group>"; };
+		159803EB154EAF0700D7776A /* cough-treatment.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "cough-treatment.jpg"; sourceTree = "<group>"; };
+		159803ED154EB03000D7776A /* 265125-Tuberculosis240x240.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "265125-Tuberculosis240x240.jpg"; sourceTree = "<group>"; };
+		159803EF154EB07600D7776A /* medical terminology.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "medical terminology.gif"; sourceTree = "<group>"; };
+		159803F1154EB0F400D7776A /* 172.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 172.jpg; sourceTree = "<group>"; };
+		159803F5154EB20E00D7776A /* review-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "review-1.jpg"; sourceTree = "<group>"; };
+		159803F7154EB25D00D7776A /* arrow-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-1.png"; sourceTree = "<group>"; };
+		159803F9154EB2D500D7776A /* plain_back.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = plain_back.jpg; sourceTree = "<group>"; };
+		159803FB154EB7CE00D7776A /* arrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = arrow.png; sourceTree = "<group>"; };
+		15B023F314FCB8C10021C823 /* FirstWindowCOntroller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FirstWindowCOntroller.h; sourceTree = "<group>"; };
+		15B023F414FCB8C10021C823 /* FirstWindowCOntroller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstWindowCOntroller.m; sourceTree = "<group>"; };
+		15B023F714FCB8D80021C823 /* FirstWindowCOntroller.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FirstWindowCOntroller.xib; sourceTree = "<group>"; };
+		15B0240314FCD26A0021C823 /* mainbtn4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mainbtn4.png; sourceTree = "<group>"; };
+		15B2D3FF1534156E00D50361 /* ReviewQuestionWindow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReviewQuestionWindow.h; sourceTree = "<group>"; };
+		15B2D4001534156E00D50361 /* ReviewQuestionWindow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReviewQuestionWindow.m; sourceTree = "<group>"; };
+		15B2D4031534158600D50361 /* ReviewQuestionWindow.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ReviewQuestionWindow.xib; sourceTree = "<group>"; };
+		15B400F4152323F20073C9DC /* cat2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cat2.png; sourceTree = "<group>"; };
+		15B400F7152324D70073C9DC /* cat1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cat1.png; sourceTree = "<group>"; };
+		15B400FD152326480073C9DC /* cat3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cat3.png; sourceTree = "<group>"; };
+		15B400FE152326480073C9DC /* cat4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cat4.png; sourceTree = "<group>"; };
+		15B9B27D153E91720089A370 /* score back.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "score back.jpg"; sourceTree = "<group>"; };
+		15B9B2D5153EB2650089A370 /* RSVerticallyCenteredTextFieldCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RSVerticallyCenteredTextFieldCell.h; sourceTree = "<group>"; };
+		15B9B2D6153EB2650089A370 /* RSVerticallyCenteredTextFieldCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RSVerticallyCenteredTextFieldCell.m; sourceTree = "<group>"; };
+		15BBCF081525A58F0065C3E9 /* sad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sad.png; path = Challenge/sad.png; sourceTree = "<group>"; };
+		15BBCF091525A58F0065C3E9 /* smiley_happy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = smiley_happy.png; path = Challenge/smiley_happy.png; sourceTree = "<group>"; };
+		15C07E34152C591800033370 /* sound.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sound.png; sourceTree = "<group>"; };
+		15C07E35152C591800033370 /* sound_accept.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sound_accept.png; sourceTree = "<group>"; };
+		15C07E39152C5C2F00033370 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		15C07E3B152C64C700033370 /* incorrect2.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = incorrect2.m4a; sourceTree = "<group>"; };
+		15C07E3C152C64C700033370 /* music.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = music.m4a; sourceTree = "<group>"; };
+		15C07E3D152C64C700033370 /* quizsound.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = quizsound.m4a; sourceTree = "<group>"; };
+		15C07E3E152C64C700033370 /* Winner.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Winner.m4a; sourceTree = "<group>"; };
+		15C07E43152C668B00033370 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		15C2996014FE462A003AE584 /* lets_play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lets_play.png; sourceTree = "<group>"; };
+		15C44323154E9E3E002702AE /* file4.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = file4.txt; sourceTree = "<group>"; };
+		15C44324154E9E41002702AE /* file1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = file1.txt; sourceTree = "<group>"; };
+		15C44325154E9E49002702AE /* file5.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = file5.txt; sourceTree = "<group>"; };
+		15C44326154E9E56002702AE /* file2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = file2.txt; sourceTree = "<group>"; };
+		15C44327154E9E64002702AE /* file3.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = file3.txt; sourceTree = "<group>"; };
+		15C4432D154EA909002702AE /* cq_mainback-landscape-4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "cq_mainback-landscape-4.jpg"; sourceTree = "<group>"; };
+		15C44333154EAB52002702AE /* back-pain-921.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "back-pain-921.jpg"; sourceTree = "<group>"; };
+		15C44336154EABC6002702AE /* lower-back-pain1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "lower-back-pain1.jpg"; sourceTree = "<group>"; };
+		15C44338154EABFE002702AE /* heelpain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = heelpain.jpg; sourceTree = "<group>"; };
+		15C4433A154EAC57002702AE /* heartburn01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = heartburn01.jpg; sourceTree = "<group>"; };
+		15CF8B9B1529981D009138DA /* reviewnow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = reviewnow.png; sourceTree = "<group>"; };
+		15E1CA8C154025DD00C8A9C7 /* quiz_main-2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "quiz_main-2.jpg"; sourceTree = "<group>"; };
+		15E1CA8F154031F600C8A9C7 /* home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = home.png; sourceTree = "<group>"; };
+		15E1CA911540330400C8A9C7 /* final_screen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = final_screen.jpg; sourceTree = "<group>"; };
+		15E9433715272F5C0060CFD2 /* ReviewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReviewController.h; sourceTree = "<group>"; };
+		15E9433815272F5C0060CFD2 /* ReviewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReviewController.m; sourceTree = "<group>"; };
+		15E9433A15272F840060CFD2 /* ReviewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ReviewController.xib; sourceTree = "<group>"; };
+		15F54C8F153C215700E347E1 /* pop_up.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pop_up.jpg; sourceTree = "<group>"; };
+		15F54C91153C216B00E347E1 /* Intro_back.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Intro_back.jpg; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		152CE4F614DBDC32004A0A5F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1594055E15419EEB00EF8EFF /* IOKit.framework in Frameworks */,
+				1594055C15419EBF00EF8EFF /* Security.framework in Frameworks */,
+				15C07E44152C668B00033370 /* QuartzCore.framework in Frameworks */,
+				15C07E3A152C5C2F00033370 /* AVFoundation.framework in Frameworks */,
+				152CE4FE14DBDC32004A0A5F /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		152CE4EE14DBDC32004A0A5F = {
+			isa = PBXGroup;
+			children = (
+				156E27171684459400EDD3C3 /* icon.icns */,
+				1594055915419E4500EF8EFF /* libcrypto.dylib */,
+				152CE50314DBDC32004A0A5F /* CQforMac */,
+				152CE4FC14DBDC32004A0A5F /* Frameworks */,
+				152CE4FA14DBDC32004A0A5F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		152CE4FA14DBDC32004A0A5F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				152CE4F914DBDC32004A0A5F /* COMLEX Level 2 PE Challenging Questions.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		152CE4FC14DBDC32004A0A5F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1594055D15419EEB00EF8EFF /* IOKit.framework */,
+				1594055B15419EBF00EF8EFF /* Security.framework */,
+				15C07E43152C668B00033370 /* QuartzCore.framework */,
+				15C07E39152C5C2F00033370 /* AVFoundation.framework */,
+				152CE4FD14DBDC32004A0A5F /* Cocoa.framework */,
+				152CE4FF14DBDC32004A0A5F /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		152CE4FF14DBDC32004A0A5F /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				152CE50014DBDC32004A0A5F /* AppKit.framework */,
+				152CE50114DBDC32004A0A5F /* CoreData.framework */,
+				152CE50214DBDC32004A0A5F /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		152CE50314DBDC32004A0A5F /* CQforMac */ = {
+			isa = PBXGroup;
+			children = (
+				152CE50F14DBDC32004A0A5F /* AppDelegate.h */,
+				152CE51014DBDC32004A0A5F /* AppDelegate.m */,
+				152CE51214DBDC32004A0A5F /* MainMenu.xib */,
+				15B9B2D5153EB2650089A370 /* RSVerticallyCenteredTextFieldCell.h */,
+				15B9B2D6153EB2650089A370 /* RSVerticallyCenteredTextFieldCell.m */,
+				152CE51A14DBDD7D004A0A5F /* MainWindow.h */,
+				152CE51B14DBDD7D004A0A5F /* MainWindow.m */,
+				152CE51D14DBDE04004A0A5F /* MainWindow.xib */,
+				15B023F314FCB8C10021C823 /* FirstWindowCOntroller.h */,
+				15B023F414FCB8C10021C823 /* FirstWindowCOntroller.m */,
+				15B023F714FCB8D80021C823 /* FirstWindowCOntroller.xib */,
+				15E9433715272F5C0060CFD2 /* ReviewController.h */,
+				15E9433815272F5C0060CFD2 /* ReviewController.m */,
+				15E9433A15272F840060CFD2 /* ReviewController.xib */,
+				15B2D3FF1534156E00D50361 /* ReviewQuestionWindow.h */,
+				15B2D4001534156E00D50361 /* ReviewQuestionWindow.m */,
+				15B2D4031534158600D50361 /* ReviewQuestionWindow.xib */,
+				152CE50414DBDC32004A0A5F /* Supporting Files */,
+			);
+			path = CQforMac;
+			sourceTree = "<group>";
+		};
+		152CE50414DBDC32004A0A5F /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				159803F9154EB2D500D7776A /* plain_back.jpg */,
+				15E1CA911540330400C8A9C7 /* final_screen.jpg */,
+				15E1CA8F154031F600C8A9C7 /* home.png */,
+				15E1CA8C154025DD00C8A9C7 /* quiz_main-2.jpg */,
+				15B9B27D153E91720089A370 /* score back.jpg */,
+				15F54C91153C216B00E347E1 /* Intro_back.jpg */,
+				15F54C8F153C215700E347E1 /* pop_up.jpg */,
+				159803FB154EB7CE00D7776A /* arrow.png */,
+				159803F7154EB25D00D7776A /* arrow-1.png */,
+				15BBCF081525A58F0065C3E9 /* sad.png */,
+				15BBCF091525A58F0065C3E9 /* smiley_happy.png */,
+				15CF8B9B1529981D009138DA /* reviewnow.png */,
+				15C07E34152C591800033370 /* sound.png */,
+				15C07E35152C591800033370 /* sound_accept.png */,
+				15C07E3B152C64C700033370 /* incorrect2.m4a */,
+				15C07E3C152C64C700033370 /* music.m4a */,
+				15C07E3D152C64C700033370 /* quizsound.m4a */,
+				15C07E3E152C64C700033370 /* Winner.m4a */,
+				159803F5154EB20E00D7776A /* review-1.jpg */,
+				15D4E2BF1521E3EC00269BF6 /* Challenge */,
+				15B400F7152324D70073C9DC /* cat1.png */,
+				15B400F4152323F20073C9DC /* cat2.png */,
+				15B400FD152326480073C9DC /* cat3.png */,
+				15B400FE152326480073C9DC /* cat4.png */,
+				15C44324154E9E41002702AE /* file1.txt */,
+				15C44326154E9E56002702AE /* file2.txt */,
+				15C44327154E9E64002702AE /* file3.txt */,
+				15C44323154E9E3E002702AE /* file4.txt */,
+				15C44325154E9E49002702AE /* file5.txt */,
+				15C2996014FE462A003AE584 /* lets_play.png */,
+				15B0240314FCD26A0021C823 /* mainbtn4.png */,
+				15C4432D154EA909002702AE /* cq_mainback-landscape-4.jpg */,
+				152CE50514DBDC32004A0A5F /* CQforMac-Info.plist */,
+				152CE50614DBDC32004A0A5F /* InfoPlist.strings */,
+				152CE50914DBDC32004A0A5F /* main.m */,
+				152CE50B14DBDC32004A0A5F /* CQforMac-Prefix.pch */,
+				152CE50C14DBDC32004A0A5F /* Credits.rtf */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		15D4E2BF1521E3EC00269BF6 /* Challenge */ = {
+			isa = PBXGroup;
+			children = (
+				15840C53153D8BB6003C39A2 /* 13364723-two-pharmacists-with-big-pill.jpg */,
+				15840CAE153D8BEE003C39A2 /* 10626694-doctor.png */,
+				15840C54153D8BB6003C39A2 /* 1301617887Z3m4Z9.jpg */,
+				15840C55153D8BB6003C39A2 /* advice.jpg */,
+				15840C56153D8BB6003C39A2 /* angry-guy.jpg */,
+				15840C57153D8BB6003C39A2 /* anxiety-worried-womanjpg.jpg */,
+				15840C58153D8BB6003C39A2 /* ask_patient.jpg */,
+				15C44333154EAB52002702AE /* back-pain-921.jpg */,
+				159803BF154EAE4900D7776A /* calcium_D_1.jpg */,
+				159803C1154EAE5000D7776A /* heartburn01.jpg */,
+				159803DD154EAE5E00D7776A /* Mid-Back-Pain.jpg */,
+				159803DE154EAE5E00D7776A /* stomacheache.jpg */,
+				159803E7154EAE6300D7776A /* 01-old-patient-nurse.jpg */,
+				159803DF154EAE5E00D7776A /* SuperStock_1566-448644.jpg */,
+				159803E0154EAE5E00D7776A /* WEAKNESS.jpg */,
+				159803E1154EAE5E00D7776A /* wristpain.jpg */,
+				159803C2154EAE5000D7776A /* heelpain.jpg */,
+				159803C3154EAE5000D7776A /* herbal-medicine.jpg */,
+				159803C4154EAE5000D7776A /* hip.jpg */,
+				159803C5154EAE5000D7776A /* images-(2).jpg */,
+				159803CF154EAE5700D7776A /* insulin.jpg */,
+				159803D0154EAE5700D7776A /* istockphoto_5193311-doctor-patient-relationship.jpg */,
+				159803D1154EAE5700D7776A /* knee-pain-4.jpg */,
+				159803D2154EAE5700D7776A /* knee-pain.jpg */,
+				159803D3154EAE5700D7776A /* lower-back-pain1.jpg */,
+				159803D4154EAE5700D7776A /* medical terminology.gif */,
+				159803D5154EAE5700D7776A /* Medical_breathing_tube.jpg */,
+				159803C6154EAE5000D7776A /* images-(3).jpg */,
+				159803C7154EAE5000D7776A /* images11.jpg */,
+				159803BB154EAE2500D7776A /* Antibiotics_250x250.jpg */,
+				159803B9154EAE1F00D7776A /* 1255352890QVmjp4.jpg */,
+				159803BD154EAE4500D7776A /* back-pain-921.jpg */,
+				15840C59153D8BB6003C39A2 /* backpain.jpg */,
+				15840C5A153D8BB6003C39A2 /* bad-breath-treatment-halitosis.jpg */,
+				15840C5B153D8BB6003C39A2 /* Blood_Transfusion.jpg */,
+				15840C5C153D8BB6003C39A2 /* confidential.jpg */,
+				15C44338154EABFE002702AE /* heelpain.jpg */,
+				15C44336154EABC6002702AE /* lower-back-pain1.jpg */,
+				15840C5D153D8BB6003C39A2 /* cough1.jpg */,
+				15840C5E153D8BB6003C39A2 /* cough2.jpg */,
+				15840C5F153D8BB6003C39A2 /* cough3.jpg */,
+				15840C60153D8BB6003C39A2 /* coumadinLogo-3.jpg */,
+				15840C61153D8BB6003C39A2 /* curious.jpg */,
+				15840C62153D8BB6003C39A2 /* deafsymbol.jpg */,
+				15840C63153D8BB6003C39A2 /* doc-pa.jpg */,
+				15840C64153D8BB6003C39A2 /* doctor2.jpg */,
+				15840C65153D8BB6003C39A2 /* doctor5.jpg */,
+				15840C66153D8BB6003C39A2 /* domestic.jpg */,
+				15840C67153D8BB6003C39A2 /* domestic2.jpg */,
+				15840C68153D8BB6003C39A2 /* elder_abuse2.jpg */,
+				15840C69153D8BB6003C39A2 /* explain2.jpg */,
+				15840C6A153D8BB6003C39A2 /* getty_rf_photo_of_wrist_pain_caused_by_crohns.jpg */,
+				15840C6B153D8BB6003C39A2 /* hemoptysis.jpg */,
+				15840C6C153D8BB6003C39A2 /* history.jpg */,
+				15840C6D153D8BB6003C39A2 /* images-1.jpg */,
+				15840C6E153D8BB6003C39A2 /* medicine.jpg */,
+				15840C6F153D8BB6003C39A2 /* NU119018.jpg */,
+				15840C70153D8BB6003C39A2 /* palpitations_lg.jpg */,
+				15840C71153D8BB6003C39A2 /* people-lady-lying-pain-1.jpg */,
+				15840C72153D8BB6003C39A2 /* sad2.jpg */,
+				15840C73153D8BB6003C39A2 /* sad3.jpg */,
+				15840C74153D8BB6003C39A2 /* sad4.jpg */,
+				15840C75153D8BB6003C39A2 /* short_of_breath.jpg */,
+				15840C76153D8BB6003C39A2 /* Sleepingpills.jpg */,
+				15840C77153D8BB6003C39A2 /* smoking.jpg */,
+				15840C78153D8BB6003C39A2 /* smoking3.jpg */,
+				159803EB154EAF0700D7776A /* cough-treatment.jpg */,
+				15840C79153D8BB6003C39A2 /* sore.jpg */,
+				15840C7A153D8BB6003C39A2 /* sore2.jpg */,
+				15840C7B153D8BB6003C39A2 /* STD.jpg */,
+				159803EF154EB07600D7776A /* medical terminology.gif */,
+				159803F1154EB0F400D7776A /* 172.jpg */,
+				15C4433A154EAC57002702AE /* heartburn01.jpg */,
+				15840C7C153D8BB6003C39A2 /* test2.jpg */,
+				15840C7D153D8BB6003C39A2 /* weight.jpg */,
+				159803ED154EB03000D7776A /* 265125-Tuberculosis240x240.jpg */,
+				159803E9154EAEE900D7776A /* dpctor22.jpg */,
+				15840C7E153D8BB6003C39A2 /* weight2.jpg */,
+				15840C7F153D8BB6003C39A2 /* worried.jpg */,
+			);
+			path = Challenge;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		152CE4F814DBDC32004A0A5F /* CQforMac */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 152CE51714DBDC32004A0A5F /* Build configuration list for PBXNativeTarget "CQforMac" */;
+			buildPhases = (
+				152CE4F514DBDC32004A0A5F /* Sources */,
+				152CE4F614DBDC32004A0A5F /* Frameworks */,
+				152CE4F714DBDC32004A0A5F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CQforMac;
+			productName = CQforMac;
+			productReference = 152CE4F914DBDC32004A0A5F /* COMLEX Level 2 PE Challenging Questions.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		152CE4F014DBDC32004A0A5F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+				ORGANIZATIONNAME = SPEC;
+			};
+			buildConfigurationList = 152CE4F314DBDC32004A0A5F /* Build configuration list for PBXProject "CQforMac" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 152CE4EE14DBDC32004A0A5F;
+			productRefGroup = 152CE4FA14DBDC32004A0A5F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				152CE4F814DBDC32004A0A5F /* CQforMac */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		152CE4F714DBDC32004A0A5F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				152CE50814DBDC32004A0A5F /* InfoPlist.strings in Resources */,
+				152CE50E14DBDC32004A0A5F /* Credits.rtf in Resources */,
+				152CE51414DBDC32004A0A5F /* MainMenu.xib in Resources */,
+				152CE51E14DBDE04004A0A5F /* MainWindow.xib in Resources */,
+				15B023F814FCB8D80021C823 /* FirstWindowCOntroller.xib in Resources */,
+				15B0240414FCD26A0021C823 /* mainbtn4.png in Resources */,
+				15C2996114FE462A003AE584 /* lets_play.png in Resources */,
+				15B400F5152323F20073C9DC /* cat2.png in Resources */,
+				15B400F8152324D70073C9DC /* cat1.png in Resources */,
+				15B400FF152326480073C9DC /* cat3.png in Resources */,
+				15B40100152326480073C9DC /* cat4.png in Resources */,
+				15BBCF0A1525A58F0065C3E9 /* sad.png in Resources */,
+				15BBCF0B1525A58F0065C3E9 /* smiley_happy.png in Resources */,
+				15E9433B15272F850060CFD2 /* ReviewController.xib in Resources */,
+				15CF8B9C1529981D009138DA /* reviewnow.png in Resources */,
+				15C07E36152C591800033370 /* sound.png in Resources */,
+				15C07E37152C591800033370 /* sound_accept.png in Resources */,
+				15C07E3F152C64C700033370 /* incorrect2.m4a in Resources */,
+				15C07E40152C64C700033370 /* music.m4a in Resources */,
+				15C07E41152C64C700033370 /* quizsound.m4a in Resources */,
+				15C07E42152C64C700033370 /* Winner.m4a in Resources */,
+				15B2D4041534158600D50361 /* ReviewQuestionWindow.xib in Resources */,
+				15F54C90153C215700E347E1 /* pop_up.jpg in Resources */,
+				15F54C92153C216C00E347E1 /* Intro_back.jpg in Resources */,
+				15840C80153D8BB6003C39A2 /* 13364723-two-pharmacists-with-big-pill.jpg in Resources */,
+				15840C81153D8BB6003C39A2 /* 1301617887Z3m4Z9.jpg in Resources */,
+				15840C82153D8BB6003C39A2 /* advice.jpg in Resources */,
+				15840C83153D8BB6003C39A2 /* angry-guy.jpg in Resources */,
+				15840C84153D8BB6003C39A2 /* anxiety-worried-womanjpg.jpg in Resources */,
+				15840C85153D8BB6003C39A2 /* ask_patient.jpg in Resources */,
+				15840C86153D8BB6003C39A2 /* backpain.jpg in Resources */,
+				15840C87153D8BB6003C39A2 /* bad-breath-treatment-halitosis.jpg in Resources */,
+				15840C88153D8BB6003C39A2 /* Blood_Transfusion.jpg in Resources */,
+				15840C89153D8BB6003C39A2 /* confidential.jpg in Resources */,
+				15840C8A153D8BB6003C39A2 /* cough1.jpg in Resources */,
+				15840C8B153D8BB6003C39A2 /* cough2.jpg in Resources */,
+				15840C8C153D8BB6003C39A2 /* cough3.jpg in Resources */,
+				15840C8D153D8BB6003C39A2 /* coumadinLogo-3.jpg in Resources */,
+				15840C8E153D8BB6003C39A2 /* curious.jpg in Resources */,
+				15840C8F153D8BB6003C39A2 /* deafsymbol.jpg in Resources */,
+				15840C90153D8BB6003C39A2 /* doc-pa.jpg in Resources */,
+				15840C91153D8BB6003C39A2 /* doctor2.jpg in Resources */,
+				15840C92153D8BB6003C39A2 /* doctor5.jpg in Resources */,
+				15840C93153D8BB6003C39A2 /* domestic.jpg in Resources */,
+				15840C94153D8BB6003C39A2 /* domestic2.jpg in Resources */,
+				15840C95153D8BB6003C39A2 /* elder_abuse2.jpg in Resources */,
+				15840C96153D8BB6003C39A2 /* explain2.jpg in Resources */,
+				15840C97153D8BB6003C39A2 /* getty_rf_photo_of_wrist_pain_caused_by_crohns.jpg in Resources */,
+				15840C98153D8BB6003C39A2 /* hemoptysis.jpg in Resources */,
+				15840C99153D8BB6003C39A2 /* history.jpg in Resources */,
+				15840C9A153D8BB6003C39A2 /* images-1.jpg in Resources */,
+				15840C9B153D8BB6003C39A2 /* medicine.jpg in Resources */,
+				15840C9C153D8BB6003C39A2 /* NU119018.jpg in Resources */,
+				15840C9D153D8BB6003C39A2 /* palpitations_lg.jpg in Resources */,
+				15840C9E153D8BB6003C39A2 /* people-lady-lying-pain-1.jpg in Resources */,
+				15840C9F153D8BB6003C39A2 /* sad2.jpg in Resources */,
+				15840CA0153D8BB6003C39A2 /* sad3.jpg in Resources */,
+				15840CA1153D8BB6003C39A2 /* sad4.jpg in Resources */,
+				15840CA2153D8BB6003C39A2 /* short_of_breath.jpg in Resources */,
+				15840CA3153D8BB6003C39A2 /* Sleepingpills.jpg in Resources */,
+				15840CA4153D8BB6003C39A2 /* smoking.jpg in Resources */,
+				15840CA5153D8BB6003C39A2 /* smoking3.jpg in Resources */,
+				15840CA6153D8BB6003C39A2 /* sore.jpg in Resources */,
+				15840CA7153D8BB6003C39A2 /* sore2.jpg in Resources */,
+				15840CA8153D8BB6003C39A2 /* STD.jpg in Resources */,
+				15840CA9153D8BB6003C39A2 /* test2.jpg in Resources */,
+				15840CAA153D8BB6003C39A2 /* weight.jpg in Resources */,
+				15840CAB153D8BB6003C39A2 /* weight2.jpg in Resources */,
+				15840CAC153D8BB6003C39A2 /* worried.jpg in Resources */,
+				15840CAF153D8BEE003C39A2 /* 10626694-doctor.png in Resources */,
+				15B9B27E153E91720089A370 /* score back.jpg in Resources */,
+				15E1CA8D154025DD00C8A9C7 /* quiz_main-2.jpg in Resources */,
+				15E1CA90154031F600C8A9C7 /* home.png in Resources */,
+				15E1CA921540330400C8A9C7 /* final_screen.jpg in Resources */,
+				15C44328154E9E76002702AE /* file4.txt in Resources */,
+				15C44329154E9E76002702AE /* file1.txt in Resources */,
+				15C4432A154E9E76002702AE /* file5.txt in Resources */,
+				15C4432B154E9E76002702AE /* file2.txt in Resources */,
+				15C4432C154E9E76002702AE /* file3.txt in Resources */,
+				15C4432E154EA90A002702AE /* cq_mainback-landscape-4.jpg in Resources */,
+				15C44334154EAB52002702AE /* back-pain-921.jpg in Resources */,
+				15C44337154EABC6002702AE /* lower-back-pain1.jpg in Resources */,
+				15C44339154EABFF002702AE /* heelpain.jpg in Resources */,
+				15C4433B154EAC57002702AE /* heartburn01.jpg in Resources */,
+				159803BA154EAE1F00D7776A /* 1255352890QVmjp4.jpg in Resources */,
+				159803BC154EAE2500D7776A /* Antibiotics_250x250.jpg in Resources */,
+				159803BE154EAE4500D7776A /* back-pain-921.jpg in Resources */,
+				159803C0154EAE4900D7776A /* calcium_D_1.jpg in Resources */,
+				159803C8154EAE5000D7776A /* heartburn01.jpg in Resources */,
+				159803C9154EAE5000D7776A /* heelpain.jpg in Resources */,
+				159803CA154EAE5000D7776A /* herbal-medicine.jpg in Resources */,
+				159803CB154EAE5000D7776A /* hip.jpg in Resources */,
+				159803CC154EAE5000D7776A /* images-(2).jpg in Resources */,
+				159803CD154EAE5000D7776A /* images-(3).jpg in Resources */,
+				159803CE154EAE5000D7776A /* images11.jpg in Resources */,
+				159803D6154EAE5700D7776A /* insulin.jpg in Resources */,
+				159803D7154EAE5700D7776A /* istockphoto_5193311-doctor-patient-relationship.jpg in Resources */,
+				159803D8154EAE5700D7776A /* knee-pain-4.jpg in Resources */,
+				159803D9154EAE5700D7776A /* knee-pain.jpg in Resources */,
+				159803DA154EAE5700D7776A /* lower-back-pain1.jpg in Resources */,
+				159803DB154EAE5700D7776A /* medical terminology.gif in Resources */,
+				159803DC154EAE5700D7776A /* Medical_breathing_tube.jpg in Resources */,
+				159803E2154EAE5E00D7776A /* Mid-Back-Pain.jpg in Resources */,
+				159803E3154EAE5E00D7776A /* stomacheache.jpg in Resources */,
+				159803E4154EAE5E00D7776A /* SuperStock_1566-448644.jpg in Resources */,
+				159803E5154EAE5E00D7776A /* WEAKNESS.jpg in Resources */,
+				159803E6154EAE5E00D7776A /* wristpain.jpg in Resources */,
+				159803E8154EAE6300D7776A /* 01-old-patient-nurse.jpg in Resources */,
+				159803EA154EAEE900D7776A /* dpctor22.jpg in Resources */,
+				159803EC154EAF0700D7776A /* cough-treatment.jpg in Resources */,
+				159803EE154EB03100D7776A /* 265125-Tuberculosis240x240.jpg in Resources */,
+				159803F0154EB07600D7776A /* medical terminology.gif in Resources */,
+				159803F2154EB0F400D7776A /* 172.jpg in Resources */,
+				159803F6154EB20E00D7776A /* review-1.jpg in Resources */,
+				159803F8154EB25E00D7776A /* arrow-1.png in Resources */,
+				159803FA154EB2D600D7776A /* plain_back.jpg in Resources */,
+				159803FC154EB7CF00D7776A /* arrow.png in Resources */,
+				156E27181684459400EDD3C3 /* icon.icns in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		152CE4F514DBDC32004A0A5F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				152CE50A14DBDC32004A0A5F /* main.m in Sources */,
+				152CE51114DBDC32004A0A5F /* AppDelegate.m in Sources */,
+				152CE51C14DBDD7D004A0A5F /* MainWindow.m in Sources */,
+				15B023F514FCB8C10021C823 /* FirstWindowCOntroller.m in Sources */,
+				15E9433915272F5C0060CFD2 /* ReviewController.m in Sources */,
+				15B2D4011534156E00D50361 /* ReviewQuestionWindow.m in Sources */,
+				15B9B2D7153EB2650089A370 /* RSVerticallyCenteredTextFieldCell.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		152CE50614DBDC32004A0A5F /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				152CE50714DBDC32004A0A5F /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		152CE50C14DBDC32004A0A5F /* Credits.rtf */ = {
+			isa = PBXVariantGroup;
+			children = (
+				152CE50D14DBDC32004A0A5F /* en */,
+			);
+			name = Credits.rtf;
+			sourceTree = "<group>";
+		};
+		152CE51214DBDC32004A0A5F /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				152CE51314DBDC32004A0A5F /* en */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		152CE51514DBDC32004A0A5F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CODE_SIGN_IDENTITY = "";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		152CE51614DBDC32004A0A5F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CODE_SIGN_IDENTITY = "";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		152CE51814DBDC32004A0A5F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				GCC_ENABLE_OBJC_GC = unsupported;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "CQforMac/CQforMac-Prefix.pch";
+				INFOPLIST_FILE = "CQforMac/CQforMac-Info.plist";
+				PRODUCT_NAME = "COMLEX Level 2 PE Challenging Questions";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		152CE51914DBDC32004A0A5F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				GCC_ENABLE_OBJC_GC = unsupported;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "CQforMac/CQforMac-Prefix.pch";
+				INFOPLIST_FILE = "CQforMac/CQforMac-Info.plist";
+				PRODUCT_NAME = "COMLEX Level 2 PE Challenging Questions";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		152CE4F314DBDC32004A0A5F /* Build configuration list for PBXProject "CQforMac" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				152CE51514DBDC32004A0A5F /* Debug */,
+				152CE51614DBDC32004A0A5F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		152CE51714DBDC32004A0A5F /* Build configuration list for PBXNativeTarget "CQforMac" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				152CE51814DBDC32004A0A5F /* Debug */,
+				152CE51914DBDC32004A0A5F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 152CE4F014DBDC32004A0A5F /* Project object */;
+}

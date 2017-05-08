@@ -1,0 +1,440 @@
+Q.1 A 46 years old female, Ms. Amanda Karty, with PMH of newly diagnosed HTN comes to clinic for follow-up. She was prescribed HCTZ 25 mg daily last time. Today, she complaints of frequent urination that interferes her daily activities. She asked you, "Doc, I would like to change my blood pressure medicine ?"
+Mrs. Karty, HCTZ is a very good anti-hypertensive medicine. You should continue.
+Mrs. Karty, I am concerned that HCTZ (water pill) cause you to have frequent urination. I will change your medicine. I will also closely follow you to make sure that you tolerate new medicine. (Extra: I can imagine how difficult it would be to have frequent urination.)
+Mrs. Karty, Water-pill is a very cheap medicine. Other medicines are costly. Therefore, I can’t change your medicine.
+Mrs. Karty, frequent urination is not a big deal. None of my patients ever complains of anything like this. So, please continue taking it.
+2
+Any side effect is alarming or frightening for patients especially if it interferes daily activities. So always express your sympathy. Frequent urination is a common side effect with HCTZ. Therefore, it is advisable to prescribe different medication.
+Mrs. Karty, I am concerned that HCTZ (water pill) cause you to have frequent urination. I will change your medicine. I will also closely follow you to make sure that you tolerate new medicine. (Extra: I can imagine how difficult it would be to have frequent urination.)
+Challenge: Side-effect of medicine.
+images-1.jpg
+B
+Q.2 Mr. Smith, a 49 years old male with HTN, DM type 2 comes to ER with complaining of chest pain for 2 hours, which increase with deep inspiration. You suspect that it is more likely from pleuritis. Anxious patient asked you, "Doc, my father died of heart attack at the age of 45. Am I having heart attack?"
+Mr. Smith, I think there is very high chance that you might have heart attack. So let’s order all tests.
+Mr. Smith, I think it could be heart attack, so let me call cardiologist. In addition, I will make sure that you will get appropriate treatment for heart attack.
+Mr. Smith, I don’t think that you have heart attack based on your history. So, please relax.
+Mr. Smith, I can understand your anxiety. Based on your symptoms and positive history in your family, heart attack is one of the possibilities. However, there are other diseases can present similar ways. So, let me finish my physical examination and run some blood tests, EKGs- electronic recordings of your heart. I assure you that you will get best treatment possible.
+4
+Chest pain is always alarming symptom for patient especially if first-degree relative is died of heart attack. Chest pain has very broad differential diagnosis. Here, positive family history puts him at high risk but you need to finish physical examination, EKGs, CXR and labs. So never give any specific diagnosis. Always be non-judgmental, as it could be anything else.
+Mr. Smith, I can understand your anxiety. Based on your symptoms and positive history in your family, heart attack is one of the possibilities. However, there are other diseases can present similar ways. So, let me finish my physical examination and run some blood tests, EKGs- electronic recordings of your heart. I assure you that you will get best treatment possible.
+Challenge: Fear of symptom and relates with relative’ death
+NU119018.jpg
+D
+Q.3 A 34 year old female, Ms. Ana Jackson, comes to office for pre-employment check up. She complained of gaining weight of about 10 lbs in last 2 month. She attributed it to smoking cessation as she quit 2 months ago. She asked you, "Doc, I am thinking to start smoking again, as I gained about 10 lbs in 2 months."
+Ms. Jackson, Smoking is not a good option to lose weight. So, please do not start it.
+Ms. Jackson, I am also concerned about your weight gain. However, smoking is not the right answer. There are many other healthy ways to lose weight such as regular physical exercise, balanced and calorie controlled diet. In addition, smoking will also damage your heart, lung and brain. So, If you want I can refer you to weight management clinic and dietitian.
+Ms. Jackson, please do not start smoking. It is very bad for your health.
+Ms. Jackson, smoking is not a good solution for weight loss. So please think about other options such as diet and exercise.
+2
+Weight gain is a very important problem after smoking cessation. Therefore, patient might re-start smoking. So, as a doctor you always offer different healthy options to lose weight such as regular physical exercise, calorie controlled diet. You can also refer him to weight management clinic.
+Ms. Jackson, I am also concerned about your weight gain. However, smoking is not the right answer. There are many other healthy ways to lose weight such as regular physical exercise, balanced and calorie controlled diet. In addition, smoking will also damage your heart, lung and brain. So, If you want I can refer you to weight management clinic and dietitian.
+Challenge: Smoking cessation and weight gain
+weight.jpg
+B
+Q.4 A 35 year old male, Mr. Mark Zhan comes to office with complaining of palpitations for two months. He started his new job as an accountant for about the same time. You found that he started drinking about 4-6 cups of coffee every day. In the middle of encounter, he asked you, "Doc, I think it is because of my coffee. What do you think?"
+Mr. Zhan, It could be your excessive intake of coffee or something else such as heart problem. So please stop drinking coffee and I will see you later.
+Mr. Zhan, it could be it or might be something else. So let me ask you few more questions, do brief physical examination and some lab tests. Once we have all these, I will be able to tell you for sure that what is exactly causing it. However, do not worry; I am here to help you.
+Mr. Zhan, you could be right but let’s explore other options as well. It could be some serious heart problem and you can die of it, if we can’t diagnose it on time. So please allow me to ask you few more questions and do brief physical examination. After that I will explain you what is exactly causing this.
+You should stop coffee. However, be on safe side, let me finish your physical examination and run some tests. I do not think, you have any serious health problem as you are young.
+2
+Many times patients relate their symptoms to co-incidentally any new changes in their life. However, as a physician always consider all possibilities. Never give any diagnosis without complete clinical encounter including lab tests. Here it could be due to high caffeine intake, but very serious etiology should be ruled out first before making any final diagnosis.
+Mr. Zhan, it could be it or might be something else. So let me ask you few more questions, do brief physical examination and some lab tests. Once we have all these, I will be able to tell you for sure that what is exactly causing it. However, do not worry; I am here to help you.
+Challenge: Symptom and co-incidentally change in life
+palpitations_lg.jpg
+B
+Q.5 A 25 year old female, Janelle Dennis, comes to clinic with complaining of Sore Throat for 3 days. She works in day care center. In the middle of encounter, she asked, “Doc, I am little worried. Should I get off from my work as I have Sore Throat?” How would you answer her?
+Ms. Dennis, I think you should continue work. Based on history, I do not think that you have Sore Throat due to bacteria.
+Ms. Dennis. I can understand your concern. Let me give you antibiotics and then you can continue your work. You should not take any day off.
+Ms. Dennis. I can understand your concern. I need more information to find out what kind of infection you have. If you have Bacterial infection, you should take off for first 24 hours. Later on, you can resume work if you feel good. So let me find out for you.
+Ms. Dennis. I agree with you. You can spread infection to children. Therefore, I will give you antibiotics after I know what kind of infection you have. I will write a letter to your employer to give you off for a week. Is that OK with you?
+3
+As a physician, you should guide your patients when and how much rest they should have during their illness. Here, if patient has Streptococcal infection, then she should be off in the first 24 hours while taking antibiotics to reduce transmission. After that she can resume her work. You should not give antibiotics without confirmation or letter for unnecessary extended leave.
+Ms. Dennis. I can understand your concern. I need more information to find out what kind of infection you have. If you have Bacterial infection, you should take off for first 24 hours. Later on, you can resume work if you feel good. So let me find out for you. 
+Challenge: Sore Throat, Should I be off from work?
+sore2.jpg
+C
+Q.6 A 34 year old male, Mr. Dennis Martin, comes to clinic with complaining of penile discharge for last two weeks. You found that he has three female sexual partners in the last 3 months. You informed him that it could be HIV or any other STDs. He asked you, "Doc, Should I tell my wife?"
+Mr. Martin, I think you have to tell your wife. If you won’t tell then I will tell your wife as it is potential risk to her life.
+Mr. Martin, you should tell your wife about your condition. She also should be checked for any infection. It will help both of you to get early diagnosis and treatment. In addition, I would be with you during every step of treatment.
+Mr. Martin, I think it is not a significant infection. You will get better once you get antibiotics. If you get HIV diagnosis then you should tell your wife.
+Mr. Martin, let me call your wife about your condition. Therefore, I can both of you simultaneously.
+2
+As a physician, you should encourage your patient to inform his sexual partners about any STDs. It is shown that it will lead to early diagnosis and treatment. You should not call his partner.
+Mr. Martin, you should tell your wife about your condition. She also should be checked for any infection. It will help both of you to get early diagnosis and treatment. In addition, I would be with you during every step of treatment.
+Challenge: Informing about STDs to partner
+STD.jpg
+B
+Q.7 A 40 year old female, Ms. Kayla Brown, comes to office with complaining of bruise on her wrist and dark spot under her right eye. She was giving you irrelevant history. Then you told her, “Ms. Kayla, please do not worry. I assure you that all the information would be confidential and you would be safe. I think that you are a victim of domestic abuse.” She started crying and told you, “Doc, you are right. I have been tolerating this for a year. However I don’t earn any money. So, I have to stay with him. ” How would you counsel her?
+Ms. Kayla, you should not stay with him. I will ask my social worker to help you.
+Ms. Kayla, I am very sorry to hear this. Your safety is my first priority. You don’t deserve this. You should be treated with respect. It does not matter even you earn money or not. I would call my domestic violence counselor. If you wish, you can live in shelter.
+Ms. Kayla, I am very sorry to hear this. I think we should call police to arrest your husband. He deserves to be punished.
+Ms. Kayla, I think you should not tolerate this. You should ask for divorce and get your benefits from him.
+2
+Domestic Violence is a very serious but preventable public health problem affecting more than 25 million American women. Domestic Violence victim will not give you clear history. There would be hidden signs in the history. If you have any suspicion, please ask direct questions to your patient. Once it is confirmed, you should re-assure your patient and counsel her all available resources.
+Ms. Kayla, I am very sorry to hear this. Your safety is my first priority. You don’t deserve this. You should be treated with respect. It does not matter even you earn money or not. I would call my domestic violence counselor. If you wish, you can live in shelter.
+Challenge: Domestic abuse: Can’t support myself
+domestic.jpg
+B
+Q.8 An 85 year old male, Mr. Milford Brown, comesto clinic in wheel-chair with his son, Mr. Joe Brown, with complaining of fatigue for 3 months. Mr. Joe Brown insisted you to take history in the presence of him. During, history taking, you found that Mr. Brown is not giving you clear answers. You suspected possibility of elder abuse. Then you requested him to step out for few minutes. Suddenly, Mr. Milford Brown told you, "Doc, I am not feeling well. My relations with him are not that great. He gets my pension every month as I can't walk to Bank. I don't know what would happen to me. " He started crying. How would you handle this situation? 
+(offer tissue and glass of water) Mr. Brown, I would talk to him. I hope he will understand your situation.
+(offer tissue and glass of water) Mr. Brown, it is a very serious issue. My social worker will help you.
+(offer tissue and glass of water) Mr. Brown, I think you should tell him that it is your money. He can’t take it from you.
+(offer tissue and glass of water) Mr. Brown, I am sorry to hear your situation. Please don’t worry. You safety is my first priority. Help is always available for you. I will call social worker and will go over various options available for you.
+4
+Elder abuse is very common and serious public health problem. It could be physical, emotional, financial, sexual or neglect.As a physician, you should suspect elder abuse if history does not sound consistent. You can report elder abuse by dialing 800-677-1116. The National Center on Elder Abuse is the organization in USA to make sure elderly people live with dignity, integrity, independence and without abuse.
+(offer tissue and glass of water) Mr. Brown, I am sorry to hear your situation. Please don’t worry. You safety is my first priority. Help is always available for you. I will call social worker and will go over various options available for you.
+Challenge: Elder abuse: Will I get my pension?
+elder_abuse2.jpg
+D
+Q.9 A 23 year old male, Mr. Andrew Clinton, comes to clinic with complaining of sore throat for 3 days. He also recently visited Miami, Fl with his girlfriend. His girl friend had a similar complaint last week. He is a caption of college soccer team and requested you, "Doc, my big game is coming next week. Can I play?"
+Mr. Clinton. Once you get treatment with antibiotics you can play it. You just have to make sure that you take antibiotics for a week.
+Mr. Clinton, you should not play soccer as it is infectious and other players might get your infection.
+Mr. Clinton, I understand that your game is important for you. I want to point out that your condition could be due to viral infection, know as Infectious Mononucleosis. In this condition, your spleen, an organ in your belly, would be enlarged and you would be at higher risk of damage to it. So let me order test and make sure that you do not have that infection.
+Mr. Clinton, for you your game is very important but as a physician your health is very important to me. So please avoid any game in a week until you get better.
+3
+Here, soccer game is very important for patient. However as a physician, you should make him aware that there is a possibility that your infection could be an Infectious Mononucleosis and he is at risk of splenic rupture if he participates in any contact sports. Patient counseling is very important aspect of physician job. Physician spends about 25% of his time in patient counseling.
+Mr. Clinton, I understand that your game is important for you. I want to point out that your condition could be due to viral infection, know as Infectious Mononucleosis. In this condition, your spleen, an organ in your belly, would be enlarged and you would be at higher risk of damage to it. So let me order test and make sure that you do not have that infection.
+Challenge: Should I play game when I have sore-throat/Infectious Mononucleosis?
+sore.jpg
+C
+Q.10 A 32 year old male, Mr. Mike Horn, comes to clinic with complaining of cough for 3 months. He mentioned that he is a reporter and went to China for 3 months last year. He also has low grade fever, shortness of breath and weight loss of about 10 lbs in 3 months. Suddenly, he started coughing and you saw bright red blood on the tissue that he has in his hand. He is trying to hide that tissue. What would you do at this time?
+(offer glass of water) Mr. Horn, I would like to see your tissue as it has blood on it. It could be a sign of lung cancer.
+(offer glass of water) Mr. Horn, Could you please show me that tissue. I would need to know what it has on.
+(offer glass of water) Mr. Horn, let me give you another tissue. You should throw it away.
+(offer glass of water) Mr. Horn, Please throw it away. It has blood on it, which is not a very good sign of your condition.
+2
+If patient uses tissue in the middle of encounter while coughing, you need to see that tissue. You will get to know that what color of sputum is and if any blood on it. Patient might be deliberately hiding it. It will show you give special attention to details.
+(offer glass of water) Mr. Horn, Could you please show me that tissue. I would need to know what it has on.
+Challenge: Chronic cough: tissue with blood
+cough3.jpg
+B
+Q.11  A 67 year old female, Ms. Mary Albee, comes to ED with complaining of coughing up blood since morning. She mentioned that she lost about 200 ml of blood so far and still coughing up blood. She also complained of difficulty in breathing and chest pain. She asked you, "Doc, I have lost so much of blood. Do I need blood transfusion?"
+Ms. Albee, I think you don’t need blood transfusion as 200 cc is not a big amount. If you continue to bleed, then I will consider.
+Ms. Albee, I can understand it is very frightening to see blood coughing up. I will check your blood count and blood group and if you need it I will give you right away. Please do not worry, you are in safe hands.
+Ms. Albee, You are right, you need blood transfusion. Let me check your blood group and I will start blood transfusion as soon as possible.
+Ms. Albee, you should not worry. I am here to help you. So let me give you blood transfusion. 
+2
+Hemoptysis, Hemetemesis or any similar symptoms would be frightening for patient. You should counsel her that you will do everything possible to help her. Here, you should not rush to give blood transfusion (BT). You should first check CBC and if it is low, you can give her BT.
+Ms. Albee, I can understand it is very frightening to see blood coughing up. I will check your blood count and blood group and if you need it I will give you right away. Please do not worry, you are in safe hands.
+Challenge: Blood Transfusion: Will I need it?
+Blood_Transfusion.jpg
+B
+Q.12 A 67 year old female, Ms. Mary Albee, comes to ED with complaining of coughing up blood since morning. She also has cough for a month and lost about 15 lbs in 4 months. You found that she has been heavy smoker for last 30 years. She asked you, "Doc, I am very afraid, do you think it is due to lung cancer?"
+ Ms. Albee, based on your presentation, lung cancer is very likely. I will inform cancer specialist, so we can start treatment as soon as possible.
+ Ms. Albee, I can understand your worry. Because of smoking, you are at high risk for lung cancer. However, it is just one possibility, it could be something else. So let me confirm your diagnosis with tests such as blood tests and chest x ray. I assure you that I would be with you throughout your treatment.
+Ms. Albee, I think you have lung cancer. However, let me order all necessary tests to know spread of it. Please do not worry; we have all different treatment options available. I will help you in every step of your treatment.
+Ms. Albee, I do not think that it is a lung cancer. I know that you are smoker, which puts you at high risk for it. I will give you medicines and blood transfusion if you need it.
+2
+Many times patients assume her diagnosis or do self-diagnosis. It could be right or wrong. As a physician, you should give your opinion that should include all possibilities and offer your help through-out treatment. Here, likely hood of having lung cancer is very high, but it has to be confirmed with tissue biopsy. What-ever diagnosis is, physician support to patient is very important.
+Ms. Albee, I can understand your worry. Because of smoking, you are at high risk for lung cancer. However, it is just one possibility, it could be something else. So let me confirm your diagnosis with tests such as blood tests and chest x ray. I assure you that I would be with you throughout your treatment.
+Challenge: Hemoptysis in smoker: Is it Lung Cancer?
+hemoptysis.jpg
+B
+Q.13 A 62 year old male, Mr. Bill Filo, comes to clinic with complaining of bloody urine for 2 days. He denied any burning urination, lower abdominal pain, fever or any other symptoms. He has Hypertension, Diabetes Mellitus type 2, Atrial Fibrillation and Cerebrovascular accident 2 years ago. His medicines are HCTZ, Metformin, Coumadin and Metoprolol. You mentioned that he needs to get work up which includes blood tests, urine tests and procedure, called Cystoscopy. He asked you, “Doc, I think it is because of Coumadin. Should I stop it?”
+Mr. Filo, you are right. It is mostly due to Coumadin. Once you stop it, bleeding should stop as well. If you continue to have bleeding, I will order these tests.
+Mr. Filo, as you said, Coumadin can cause any bleeding including bloody urine. However, it could be due to many other diseases. Therefore, we need to find out why you have bloody urine. So I will check blood tests, urine tests and if I think, Coumadin has to be stopped, and then I will stop it.
+Mr. Filo, as you said, you can safely stop Coumadin and bleeding will stop eventually. If it continues than I will order those tests. Is that OK with you?
+Mr. Filo, You should continue Coumadin as you have irregular heart rhythm called atrial fibrillation and also CVA in the past. Meanwhile I will run those tests. I will get back to you once we have more information.
+2
+Many times patients attribute their symptoms to side effects of medicines. They think further work up is not necessary and stopping medicine is the answer for their symptoms. As a physician, you should explain all possibilities and importance of taking medicines if patient has to take it. Here, Coumadin can cause bleeding but it could be due to many other conditions as well. So here, patient should get work up for bloody urine.
+Mr. Filo, as you said, Coumadin can cause any bleeding including bloody urine. However, it could be due to many other diseases. Therefore, we need to find out why you have bloody urine. So I will check blood tests, urine tests and if I think, Coumadin has to be stopped, and then I will stop it.
+Challenge: Side effects of medicine: continue or discontinue?
+angry-guy.jpg
+B
+Q.14 A 35 year old male, Mr. David Canterbury, comes to ED with complaining of severe knee pain for a day. It starts all of a sudden when he was moving to his new apartment. The pain is about 7/10 in severity, sharp in nature, more with movements and partially relieved with pain medicines. He works as a construction worker. He asked you, “Doc, will I be able to work?”
+Mr. Canterbury, I know it is a difficult situation for you. I am sure that you would be able to work after a week or two. This condition is easily treatable with pain medicines. Please do not worry.
+Mr. Canterbury, I can understand your concern. You would be able to work as your pain will go away with medicines and physical therapy. Meanwhile let me find out why you have this pain. Is it OK with you?
+Mr. Canterbury, I can understand your concern. First, I need to know what exactly causing your pain. So let me ask you more questions and do physical examination. I assure you that I will do everything possible to help you. So, let me ask you few more questions. Is that OK with you?
+Mr. Canterbury, you should not worry. Let me find out why you have this pain. Most people will get better with this kind of pain. I will try my best. 
+3
+Patient’s ability to work can be compromised with certain medical condition. Therefore, it is very important for patient. Here you do not know why patient has this pain. It could be just sprain, muscle strain or due to rupture of ligament. Each condition has different prognosis. So never give patient false reassurance. You should give all possibilities and re-assure patient that you are there to help him.
+Mr. Canterbury, I can understand your concern. First, I need to know what exactly causing your pain. So let me ask you more questions and do physical examination. I assure you that I will do everything possible to help you. So, let me ask you few more questions. Is that OK with you?
+Challenge: Will I be able to Work?
+advice.jpg
+C
+Q.15 A 50 year old male, Mr. Herman Anthony, comes into the office with complaining of blood while coughing for 2 days. He also has low grade fever, fatigue and low energy for 2-3 weeks. He denied any chest pain, SOB, N/V, and urinary and bowel complaints. He has HTN and DM type 2. He was recently started on ASA for primary prevention of CAD. His other medications are HCTZ and Metformin. He asked you, “Doc, I just started ASA, I think it is due to ASA.” How would you answer him?
+Mr. Anthony, I think you are right. As ASA is blood thinner it can cause bleeding like this. So please stop taking ASA.
+Mr. Anthony, You are right. ASA can cause bleeding like this. So please stop taking it and I will see you after a week to see whether bleeding stop or not.
+Mr. Anthony, You are right but I do not think it is due to ASA. ASA is good for you as it prevents you from getting CAD. So please do not discontinue ASA.
+Mr. Anthony, I understand your concern. It is good that you are aware of side-effects of ASA. It is one possibility but there could be something else. So let me ask you few more questions. If it is due to ASA, then you can stop taking it. Is that OK with you?
+4
+Here, patient attributes his hemoptysis to ASA. It could be true but as you are not sure 100%. So it is advisable to do full work up and then decide whether ASA should be stopped or not. Therefore, you should counsel your patient that full work up is needed. You should also offer all possible help during work up.
+Mr. Anthony, I understand your concern. It is good that you are aware of side-effects of ASA. It is one possibility but there could be something else. So let me ask you few more questions. If it is due to ASA, then you can stop taking it. Is that OK with you?
+Challenge: Will it because of Aspirin?
+cough1.jpg
+D
+Q.16 A 39 year old, Ms. Maria Brown, comes to ED with complaining of serve belly pain since early morning at 4 AM. She said it is 8/10 in severity, in right lower belly, moves to umbilical region, and increase with movement. You are about to ask any associated symptoms and she interrupted you and ask you, “Doc, don’t ask me questions. I need pain medicines. I can’t bear this pain.” How would you counsel her?
+Ms. Brown, I can understand that you are in pain. However, I can’t give you pain medicines now. You have to first answer my questions.
+Ms. Brown, I know that you are in severe pain and I want to help you as soon as possible. Therefore, I need to know what exactly causing your pain. So please let me ask you few more questions. It would be very quick. Is that OK with you?
+Ms. Brown, I need to ask you few questions without that I can’t give you pain medicines. So please do not ask pain medicines any more.
+Ms. Brown. I totally agree that you are in severe pain. You do not deserve to be in such a pain. Let me give you pain medicines, so you feel better.
+2
+Here, patient is in severe pain and asking for pain medicines even before you know why she has pain. In these situations, express your sympathy towards patient and offer help as soon as possible after your clinical encounter. It is very common situation when patient can’t bear pain and ask for pain medicines. You need to explain him that you will give him pain medicines once you are done with clinical encounter.
+Ms. Brown, I know that you are in severe pain and I want to help you as soon as possible. Therefore, I need to know what exactly causing your pain. So please let me ask you few more questions. It would be very quick. Is that OK with you?
+Challenge: Abdominal pain: Give me pain medicines
+people-lady-lying-pain-1.jpg
+B
+Q.17 A 25 year old African American, Mr. Courtely Afolabi, comes to clinic in the evening with complaining of back pain for 10 years. He mentioned that his regular physician is out of town and he has severe back pain. He mentioned that he takes morphine every 6 hours to relieve his intolerable pain. You found him in hurry and he was answering your questions with very little or no information. You are trying to get more information about his back pain and he said, “Doc, I told you that I have back pain and I take Morphine then why you ask so many questions. I am in hurry, so please give me prescription and I will go. ” What would you do?
+Mr. Afolabi, It seems that you are in hurry and as you are taking morphine for back pain for last 10 years, I will write a prescription but I will not give you any refill.
+Mr. Afolabi, you need to answer my questions and then I will write prescriptions of Morphine. 
+Mr. Afolabi, I know that you are in pain but I need to know more about your back pain and if you need I will give you medicines. So please allow me to ask you few more questions. It would be quick. Is that OK with you?
+Mr. Afolabi, You are asking Morphine prescriptions. I can’t give you that prescription.
+3
+In clinical practice, you will have patient with pain-seeking behavior like this one. They mimic severe pain and force you to write their desired medicine. As a responsible physician, you need to find out exact indication of any medicine. Without it, you can’t write any prescription.
+Mr. Afolabi, I know that you are in pain but I need to know more about your back pain and if you need I will give you medicines. So please allow me to ask you few more questions. It would be quick. Is that OK with you?
+Challenge: Why many questions? Give me Morphine.
+backpain.jpg
+C
+Q.18 A 56 year old male, Mr. Robert Singer, comes to clinic with complaining of frequent urination, increase thirst and weight loss for a month. He lost about 5 lbs in a month. He denied any fever, sad mood, chest pain, shortness of breath, or any bowel symptoms. You asked him family history and he replied, ”Doc, My father had diabetes when he was in his 50s. Do I have it now?”
+Mr. Singer, I think it is Diabetes as symptoms are very suggestive of it. Therefore, once I am done I will start you on medicines. I will also refer you to Diabetes educator to help you understand it. 
+Mr. Singer, I am not sure right now. It is too early to tell anything. Let me finish my physical examination and I will explain you what I think. However, do not worry; I will start you on medicines once I confirmed it.
+Mr. Singer, I understand your concern. Having history of Diabetes in your family puts you at higher risk of getting it. However, it could be something else as well. So let me finish my physical examination and I will let you know what I think. However, whatever your diagnosis, I will try my best to help you. Is that Ok with you?
+Mr. Singer, I am not too positive about it. These kind of symptoms are very common and due to many other conditions. Therefore, I think it is very less likely that you have Diabetes.
+3
+Mr. Singer is concerned about possibility of Diabetes based on his symptoms. He is at somewhat high risk of getting it as positive family history. As a physician, until you confirmed your diagnosis, you should give patients all possibilities. In addition, it is very important to reassure patient that you will do your best to help him. It will increase patient’s confidence in you.
+Mr. Singer, I understand your concern. Having history of Diabetes in your family puts you at higher risk of getting it. However, it could be something else as well. So let me finish my physical examination and I will let you know what I think. However, whatever your diagnosis, I will try my best to help you. Is that Ok with you?
+Challenge: Will I have Diabetes?
+explain2.jpg
+C
+Q.19 A 32 year old female, Ms. Lora Brown, comes to office with complaining of fatigue and depressed mood for 3 weeks. She recently lost her husband and son in car accident and since then she is feeling like this way. You are trying to get more information and suddenly she told you, “Doc, I lost everything. I want to die. ” She started crying. How would you handle this situation?
+(Offer tissue and wait for few seconds) Ms. Brown, I agree, it is a very tough situation for you. However, suicide is not the answer for this situation. I will prescribe you good medicines to make you happy.
+(Offer tissue and wait for few seconds) Ms. Brown, I understand how bad you can feel now. You are not alone, I am with you. I want to tell you that suicide is not the answer for it. We have many resources that can help you such as medicines and counseling. Many people do get better after some time. So, let me help you by asking few more questions.
+(Offer tissue and wait for few seconds) Ms. Brown, please do not think about it. That is not the solution for your problem. I can help you and that’s why I am here.
+(Offer tissue and wait for few seconds) Ms. Brown, you should go to Psych ER right away as you need immediate help. Let me call Psych ED physician and he will take care of you.
+2
+Counseling for depressed patient is very important. You might have very depressed and crying patient with poor eye contact and wants to die. Suicide prevention counseling is very critical during your encounter. You should understand his situation, offer all helps which includes counseling, medicines, suicide prevention helpline and support groups. Here, patient needs immediate help and as a physician, you should provide all possible help.
+(Offer tissue and wait for few seconds) Ms. Brown, I understand how bad you can feel now. You are not alone, I am with you. I want to tell you that suicide is not the answer for it. We have many resources that can help you such as medicines and counseling. Many people do get better after some time. So, let me help you by asking few more questions.
+Challenge: I want to die.
+sad4.jpg
+B
+Q.20 A 56 year old male, Mr. Jason Berthold, comes to your office with complaining of fatigue and sad mood. He mentioned that he lost his wife in battle of breast cancer about 6 months ago and all of a sudden, he lost his job as his company laid off workers to cut cost. He asked you, “Doc, I feel very bad. I was working in that company for last 30 years. And all of a sudden, I was laid off. How can I feed my family?” He started crying.
+(Offer tissue and wait for few seconds) Mr. Berthold, I am very sorry to hear this. Let me help you by asking more questions. You will feel better after some time.
+(Offer tissue and wait for few seconds) Mr. Berthold, I am very sorry to hear this. This is very tough time in your life and you need help. I will try my best to help you. Therefore, I need to know more about your conditions, so let me ask you few more questions. Is that OK with you?
+(Offer tissue and wait for few seconds) Mr. Berthold, I know it is very tough situation for you. However, please stop crying. It will not solve your problem. Let me help you by asking few more questions.
+(Offer tissue and wait for few seconds) Mr. Berthold, I feel very bad about you. However, I am sure you will recover. Let me give you some time.
+2
+Here, patient is very sad about his personal situation and he needs help. As a physician, you should provide all possible help. Soothing words will help him to calm down. Here you can also put hands on patient’s shoulder for consolation if appropriate.
+(Offer tissue and wait for few seconds) Mr. Berthold, I am very sorry to hear this. This is very tough time in your life and you need help. I will try my best to help you. Therefore, I need to know more about your conditions, so let me ask you few more questions. Is that OK with you?
+ Challenge: I cannot feed my family.
+sad2.jpg
+B
+Q.21 A 32 year old female, Ms. Jessica Ma, comes to clinic for obesity evaluation. Her BMI is 37 and she gained about 20 lbs in last 4 month. She denied any complaints at all. She wants to reduce her weight as it is very embarrassing to her and she worried about getting various complications. Her mother has Osteoarthritis (OA) at the age of 45. She asked you, "Doc, Will I get Osteoarthritis? Please help me."
+Ms. Ma, I am happy that you understand your situation and came here to get help. If you lose weight, you will not get arthritis. So please try hard to lose it.
+Ms. Ma, I appreciate your understanding about your condition. Overweight can cause many problems including arthritis. We have many resources to lose weight such as weight management programs, Dietitian help and much more. So let me ask you few more questions and I will give you all information.
+Ms. Ma, You are right, most likely you will get arthritis. Therefore, you have to lose weight as soon as possible. I will give you all information.
+Ms. Ma, I understand your concern. I do not think that you will get arthritis but it’s always good to lose weight.
+2
+Here, patient realized her problem and came to you to get some help. As a physician, you should appreciate it as her participation in care, will increase compliance and get favorable results. You should offer all information about various resources available to her.
+Ms. Ma, I appreciate your understanding about your condition. Overweight can cause many problems including arthritis. We have many resources to lose weight such as weight management programs, Dietitian help and much more. So let me ask you few more questions and I will give you all information.
+Challenge: Obese Female: Will I get Osteoarthritis?
+history.jpg
+B
+Q.22 A 45 year old male, Mr. Jimmy Katz, comes to clinic and asking for morphine. He told that he does not have time and just want to get this prescription. He gets upset once you asked about more questions. How would you counsel him?
+"Mr. Katz, I will write prescription of morphine as you are in hurry."
+"Mr. Katz, I cannot write you prescription. I need more information about your condition."
+"Mr. Katz, you are drug seeker and I will call 911 and arrest you."
+"Mr. Katz, I can understand that you are in hurry, but in order to prescribe you pain medication, I need to know more about your medical condition. So please bear with me. It won’t take much time."
+4
+Here, patient has drug seeking behavior. Patient will give you any reason to force you to write a prescription for him but as a responsible physician, you need to know why patient need this prescription. You need to explain him that you need to know more about his condition and if he needs you will write it. 
+"Mr. Katz, I can understand that you are in hurry, but in order to prescribe you pain medication, I need to know more about your medical condition. So please bear with me. It won’t take much time."
+Challenge:  Drug seeking behavior.
+doctor5.jpg
+D
+Q 23. A 36 year old male, Mr. Peter Zuckerberg, comes to clinic with complaining of shortness of breath for a month. He smokes about 1 PPD for 15 years and tried many times to quit but failed. How would your counsel him?
+Mr. Zuckerberg, I do not think that you ever will be able to quit it. However, I think you should decrease it.
+Mr. Zuckerberg, it is difficult to quit and I think you do not have enough will power to quit. However, I will strongly recommend you to quit.
+Mr. Zuckerberg, I appreciate that you tried many times. I also know that it is very difficult to quit. However, I strongly recommend you to try one more time and if you want, I can refer you to our smoking cessation program.
+Mr. Zuckerberg, right now shortness of breath is very important to me; we will talk about smoking cessation next time.
+3
+Many patients need multiple attempts before they quit smoking successfully. This is true for any addiction. You should appreciate patient’s effort and always offer help to facilitate quitting.
+Mr. Zuckerberg, I appreciate that you tried many times. I also know that it is very difficult to quit. However, I strongly recommend you to try one more time and if you want, I can refer you to our smoking cessation program.
+Challenge: Smoking cessation counseling
+smoking.jpg
+C
+Q.24 An 18 year old female, Ms. Taylor Lively, Comes to clinic with complaining of being obese for last six months. She has been trying different dietetic plans, including self-induced vomiting, laxatives and diuretics. According to your records, she lost about 10 lbs in last 3 months. Her BMI is 18 kg/m2. You explained her importance of having normal weight and she asked you, "Doc, I am too fat in my friend circle. I have to lose weight to be smart and attractive. So please give me some pills so I can quickly lose weight. "
+Ms. Lively, You lost about 10 lbs in last 3 months and you are very thin. You should not lose weight infact you should focus on gaining weight. Therefore, I will not give you any pills.
+Ms. Lively, I understand why you want to lose weight. As a concerned physician, I would strongly recommend you to maintain average body weight. You weight is below average and it is not advisable to lose even more weight. I would suggest you to get help from Dietitian. Is that OK with you?
+Ms. Lively, I don’t think that you should lose even a single pound. You should try to gain weight. Therefore, I will refer you to Dietitian.
+Ms. Lively, You should not lose weight. I would recommend you to do regular exercise and take healthy diet. Medications for weight loss are not appropriate.
+2
+Here, patient wants to lose even more weight although she is malnourished. Anorexia Nervosa and Bulimia Nervosa are very common among teenagers. As a physician, you should explain importance of maintaining average body weight and various available resources.
+Ms. Lively, I understand why you want to lose weight. As a concerned physician, I would strongly recommend you to maintain average body weight. You weight is below average and it is not advisable to lose even more weight. I would suggest you to get help from Dietitian. Is that OK with you?
+Challenge: I need to lose weight as I am very big.
+weight2.jpg
+B
+Q.25 A 48 year old male, Mr. James Rosenbaum, comes to clinic with complaining of being very obese for last 3-4 years. In Last year, he has started regular exercise in gym to lose weight and he lost about 10 lbs in last 6 months. His current BMI is 32. He asked you, “Doc, I am tired of doing all these. It's not helping me. Please give me pills to lose weight."
+Mr. Rosenbaum, I am happy that you try hard to lose weight. I think you need extra help. I will give pills to reduce weight loss only for a month.
+Mr. Rosenbaum, I think you should try even harder to lose weight. Medications will not help you much.
+Mr. Rosenbaum, I appreciate your hard work to lose weight. Sometimes it is very difficult to lose weight and you should have extra help. I would recommend you to enroll for weight management program and get help from Dietitian. You should avoid pills for weight reduction. Is that OK with you?
+Mr. Rosenbaum, You lost about 10 lbs in 6 months. I think you should continue working on it. I also suggest if you don’t lose weight in next 3-4 months, then I will give you pills for weight reduction. Is that OK with you?
+3
+Here, Patient has tried exercise and lost about 10 lbs in 6 months. Patient might need to watch his diet, as he might be taking extra calorie. Therefore, you should advised patient to continue non-pharmacologic measures such as regular exercise, weight management program and referral to Dietitian. Pills for weight reduction should be avoided.
+Mr. Rosenbaum, I appreciate your hard work to lose weight. Sometimes it is very difficult to lose weight and you should have extra help. I would recommend you to enroll for weight management program and get help from Dietitian. You should avoid pills for weight reduction. Is that OK with you?
+Challenge: Prescribe me medicines to lose weight.
+weight.gif
+C
+Q.26 A 35 year old female, Ms. Gloria Rand, comes to clinic with complaining of sleeping difficulty for 4 months. She started recently job as a TV channel reporter and she works in different shifts including night shifts as well. She drinks about 2-3 cups of coffee in the evening, sometimes does exercise around 6 PM, watches television, and does reading till 11 PM as she could not sleep. She asked you, "Doc, I need serious help. I can’t take it anymore. Give me some sleeping pills."
+Ms. Rand, I know it must be very troublesome for you. For better sleep you should stop taking coffee and doing exercise in the evening. Meantime, get some sleep I will write you sleeping pills. I strongly suggest you not to take it for long time.
+Ms. Rand, I can understand your problem. You should stop taking coffee and doing exercise as well as watching TV and reading in the bed. Meantime, I will give you pills for a week. You should stop all these in a week to get good sleep.
+Ms. Rand, I know it must be very tough to you. Many times, difficulty in sleeping related to life styles. You may get benefit by limiting coffee in the evening, doing exercise not later than early afternoon. You should also use your bed only for sleep. I would suggest you to try these things first.  It is not advisable to use sleeping pill in your condition. Is that OK with you?
+Ms. Rand, I know you have been suffering a lot by not having good sleep. I will write you prescription for a week, and come back after a week. Is that OK?
+3
+Here patient’s insomnia is related to her poor life-styles. First, life styles changes should be tried. Medicines for sleeping are not advisable as they can cause addiction and dependence. You should advise patient why they get insomnia and what they should do to correct it.
+Ms. Rand, I know it must be very tough to you. Many times, difficulty in sleeping related to life styles. You may get benefit by limiting coffee in the evening, doing exercise not later than early afternoon. You should also use your bed only for sleep. I would suggest you to try these things first.  It is not advisable to use sleeping pill in your condition. Is that OK with you?
+Challenge: Give me sleeping pill to get sleep.
+Sleepingpills.jpg
+C
+Q.27 A 72 year old male, Mr. Pier Engelbert, comes to ER with complaining of sudden deafness in left ear since morning. He reported tinnitus, fullness in the ear and dizziness since morning. He denied any injury or exposure to loud noise or any other complaints. You finished history and about to start physical examination, He asked you, "Doc, will I hear again?"
+Mr. Engelbert, It is difficult to tell right now. Let me finish my physical examination.
+Mr. Engelbert, you will get better soon but it will take time. Let me finish my physical examination, so I can know why exactly you have deafness.
+Mr. Engelbert, I can understand your concern. To answer your questions, I need to know why exactly you have deafness. So let me finish my quick physical examination and some tests. I promise you that I will try my best to help you. Is that OK?
+Mr. Engelbert, right now, I can’t answer your question, as I need to finish my physical examination and run some tests. So let me start my physical examination.
+3
+Any patient would be worried after sudden hearing loss or vision loss. When patient asked, you can’t give much information as you need to examine him and run some tests to get exact diagnosis. You should re-assure him that you will try your best to help him. Never give any definitive diagnosis without doing physical examination and necessary tests. 
+Mr. Engelbert, I can understand your concern. To answer your questions, I need to know why exactly you have deafness. So let me finish my quick physical examination and some tests. I promise you that I will try my best to help you. Is that OK?
+Challenge: Deafness: Will I hear again.
+deafsymbol.jpg
+C
+Q.28 A 22 year old female, Ms. Alpna Weber, comes to clinic with complaining of sad mood since her mother died due to breast cancer 2 weeks ago. Now she lives alone but she experienced flash back of her mother’s memory. You are about to ask her next question and she started crying. What would you do next?
+(offer tissue and wait for few seconds) Ms. Weber, I am sorry to hear that you are experiencing these symptoms. I can’t imagine how difficult it would be for you. I would like to help you as much as I can. In addition, I want to tell you that medicines and other resources such as support groups, counselor will help you as well. Is that OK to ask you few more questions?
+(offer tissue and wait for few seconds) Ms. Weber, I know it is very tough situation for you. You should not cry as crying will not help you.
+(offer tissue and wait for few seconds) Ms. Weber, It must be very touch for you to lose your mother. Although, I need to ask you few more questions.
+(offer tissue and wait for few seconds) Ms. Weber, I can understand that it would be very tough situation for you. I think you need some time to calm yourself down. Let me wait for few more minutes.
+1
+Patient can feel very depressive symptoms in situation like this. She is at high risk for suicide. As a physician, you should make sure that patient would be in safe place and offer all possible helps that include counseling, medications, support groups and referral to psychiatry.
+(offer tissue and wait for few seconds) Ms. Weber, I am sorry to hear that you are experiencing these symptoms. I can’t imagine how difficult it would be for you. I would like to help you as much as I can. In addition, I want to tell you that medicines and other resources such as support groups, counselor will help you as well. Is that OK to ask you few more questions? 
+Challenge: My mother died 2 weeks ago, started crying?
+sad3.jpg
+A
+Q.29 A 34 year old female, Ms. Lauren Esterbrook, comes to clinic with complaining of sad mood since she got fired from her job about a week ago. She asked you, "Doc, I was a single working mom, how would I feed my children?"
+Ms. Esterbrook, I am very sorry to hear this. It must be very stressful situation for you. I can refer you to our social worker. She can help you find various resources for you.
+Ms. Esterbrook, I know it is very tough situation for you. However, I am sure you will get another job very soon. So please do not worry.
+Ms. Esterbrook, I can’t imagine how difficult it would be for you. Let me call dietitian to give some foods to carry with you for your children.
+Ms. Esterbrook, I very sorry to hear this. I will call food stamps to give you some foods for your children.
+1
+Here patient is a single working mother and lost source of income for her family. This is one of the precipitating events for depression. As a physician, you should provide various resources including immediate help by referring her to social worker. In addition, it is advisable to give her counseling, medications and referral to psychiatry if necessary.
+Ms. Esterbrook, I am very sorry to hear this. It must be very stressful situation for you. I can refer you to our social worker. She can help you find various resources for you. 
+Challenge: How can I feed my children?
+sad2.jpg
+A
+Q.30 A 26 year old female, Ms. Karen Hammer, comes to clinic with complaining of bruise on his back for a week. She initially started to tell you some story but she later on admit that she has been physically and sexually abused by her boyfriend. She asked you, "Doc, I am very afraid of him. I do not want to live with him anymore. However, I don't have any place to go. What should I do?"
+Ms. Hammer, I can understand your situation. I want to tell you that you don’t deserve to be treated like this and your safety is my first priority. So let me call Domestic Abuse Counselor and she will inform you various resources.
+Ms. Hammer, I think you should not stay with him anymore but as you said you do not have any place to go, I would admit you and start finding place for you.
+Ms. Hammer, I appreciate that you came today to get help. Let me call law-enforcement agency to arrest your boy-friend. He deserves to be punished. Is that OK with you?
+Ms. Hammer, It is very tough situation for you. I think let me call the National Domestic Violence Hotline for you. They might provide us any option as I do not have any place for you to go.
+1
+Domestic Abuse is a very serious public health problem. As a physician, patient’s safety is your first priority and you should provide all possible resources to patient that includes counseling including reassurance,  information about National Domestic Violence Hotline (1-800-799-SAFE(7233)) or TTY 1-800-787-3224, Domestic Abuse Counselor and information about emergency plan in case she needs it.
+Ms. Hammer, I can understand your situation. I want to tell you that you don’t deserve to be treated like this and your safety is my first priority. So let me call Domestic Abuse Counselor and she will inform you various resources.
+Challenge: Domestic abuse: Where will I go?
+domestic2.jpg
+A
+Q.31 A 36 year old male, Mr. David Siegel, comes to clinic with complaining of wrist pain for a week. He got injured while he was moving boxes at home. It is dull, 5/10, worsens with movements and partially relieved by pain medicines. In the middle of encounter he asked you, "Doc, I am very worried. Will I be able to play piano again?"
+Mr. Siegel, I would suggest you that let me finish my physical examination. However, I don’t think it is a big problem. You would be fine in a week. I will just give you some pain medications.
+ Mr. Siegel, based on your history it looks like that it is a ligament strain. It will get better with rest and medicines. Therefore, I think you would be able to play your piano very soon.
+Mr. Siegel, I can understand your concern. Let me finish my physical examination first and I will give you my impression. Most patients with similar presentation do get better with rest and medicines. So, let me examine you.
+Mr. Siegel, based on your presentation, it looks like that you have ligament strain, I think it will take long time to recover. You should not play piano for atleast a month. Is that OK with you?
+3
+Here, based on presentation it looks like patient might have ligament strain, but until you finish physical examination and run some tests you can’t tell exactly what is causing this pain. Therefore, you should explain patient what you will do to confirm it and also offer your full assistance to help him.
+Mr. Siegel, I can understand your concern. Let me finish my physical examination first and I will give you my impression. Most patients with similar presentation do get better with rest and medicines. So, let me examine you.
+Challenge: Will I be able to play piano?
+getty_rf_photo_of_wrist_pain_caused_by_crohns.jpg
+C
+Q.32 A 58 year old male, Mr. Matthew Sheller, comes to ER with complaining of ankle pain for 2 days that starts suddenly. It is 8/10, throbbing in nature, aggravates with movements, relieved partially by Naproxen with no fever or other symptoms. His father and uncle had gout. He was concerned about his condition and asked you, "Doc, Will it be gout?"
+Mr. Sheller, I can understand your concern. However, based on your symptoms I think you have something else. Therefore, I will do quick physical examination and do some blood tests to confirm it.
+Mr. Sheller, I can understand your worry. Positive family history puts you at higher risk of developing gout. Your symptoms could be due to it or something else. Therefore, to confirm it, I need to do quick physical examination and run some tests. Is that OK with you?
+Mr. Sheller, you are right. I think you have gout attack as your father also had it. I will give you pain medicines and also admit you for further treatment.
+Mr. Sheller, I am not too sure about gout. Many other diseases can give you pain like this. Meanwhile I will give you pain medicines to help you. Is that ok with you?
+2
+Here, positive family history puts him at higher risk of getting Gout. Based on personal experience, patient might perceive that his symptoms are due to same disease that his family member had. You should explain him all possibilities and things need to be done to confirm it. In addition, you should offer your full assistance to help him.
+Mr. Sheller, I can understand your worry. Positive family history puts you at higher risk of developing gout. Your symptoms could be due to it or something else. Therefore, to confirm it, I need to do quick physical examination and run some tests. Is that OK with you?
+Challenge: Ankle pain: Will I have gout?
+1301617887Z3m4Z9.jpg
+B
+Q.33 A 42 year old male, Mr. Anthony Remuzzi, comes to clinic for routine physical examination. He denied any symptoms. He has been smoking 1 PPD for last 15 years and never tried to quit smoking. He also drinks beer occasionally and denied any illegal drugs. You counseled him health hazards of smoking and encouraged him to quit smoking. During conversation, you mentioned possibility of getting lung cancer. He asked quickly, "Doc, could you please get CT scan of lung to check whether I have any tumor in the Lung?"
+Mr. Remuzzi, as a long standing smoker, you are at high risk for Lung Cancer. Therefore, I also think that we should get CT scan of lung to check whether you have tumor in the Lung. So let me order it for you.
+Mr. Remuzzi, I can understand your worry but first you need to quit smoking before I can get CT scan of Lung. So let me refer you to smoking cessation program.
+Mr. Remuzzi, I don’t think you have Lung Cancer. It won’t be useful. However, I think you should quit smoking.
+Mr. Remuzzi, I would like to tell you that as a long-standing smoker you are at high risk for Lung Cancer, but till now there is not any single proven test to screen for Lung Cancer including CT scan of Lung. However, I strongly suggest you to quit smoking. Is that fine with you?
+4
+Many cancers can be detected early by effective screening tests.    Examples:1) Breast Cancer- Yearly Mammogram after 40 years of age. 2) Colon Cancer- 10-yearly Colonoscopy or Yearly Fecal Occult Blood Testing (FOBT) and 5-yearly Sigmoidoscopy after 50 years of age. 3) Cervical Cancer-Yearly Pap smear. However, there is not any single proven cost-effective screening test for Lung Cancer including among active smokers. It leads to unnecessary further follow-up including invasive tests. This should be explained to patient and smoking cessation should be strongly recommended.
+Mr. Remuzzi, I would like to tell you that as a long-standing smoker you are at high risk for Lung Cancer, but till now there is not any single proven test to screen for Lung Cancer including CT scan of Lung. However, I strongly suggest you to quit smoking. Is that fine with you?
+Challenge: Routine medical examination: Can you get CT scan of lung to check any tumor in my lung??
+test2.gif
+D
+Q:34 A 24 year old male, Mr. Joseph Ammann, comes to clinic with routine physical check-up in the winter. He denied any complaints. He smokes 5 cigarettes every day but denied any alcohol and illegal drugs. You recommended him to quit smoking and get annual flu vaccine. He resisted you, "Doc, I don’t want to take flu vaccine as I heard that some people get fever after that."
+Mr. Ammann, you are right, some people do get fever after getting flu vaccine. Therefore, if you are afraid of it, then you should not take it. However avoid contact with any person who has flu.
+Mr. Ammann, yes, some people might get low-grade fever but it will subside after day or two. You can also get Tylenol for it. However, it prevents you from getting flu this winter. Therefore, I strongly recommend you to get flu vaccine. Is that fine with you?
+Mr. Ammann, I don't think you will get it as very small percentage of people gets it. So, should I give you?
+Mr. Ammann, I am not sure why you are so worried. It is very good vaccine to fight against seasonal flu. So I will give you.
+1
+Many patients avoid taking flu vaccine as they are afraid of getting any side-effects of flu vaccine such as soreness, redness, or swelling where the shot was given or it can cause low-grade fever or aches. They will subside in a day or two. Patients should be counseled about it and flu vaccine should be recommended strongly.
+Mr. Ammann, you are right, some people do get fever after getting flu vaccine. Therefore, if you are afraid of it, then you should not take it. However avoid contact with any person who has flu.
+Challenge: Vaccine: will I get any reaction?
+doctor5.jpg
+A
+Q.35 A 45 year old female, Ms. Michelle Koay, comes to clinic for routine follow up. She denied any symptoms. Her mother had breast cancer at the age of 56 years. She wants to check herself for breast cancer as she was concerned about it. She recently started her new job at local Supermarket and she is not too sure about her insurance coverage. So, she asked you, "Doc, will it cover by my insurance?"
+Ms. Koay, I appreciate that you want to get mammogram. Generally most of the insurances cover screening mammogram. I will check with your insurance company. So let me order it.
+Ms. Koay, I don’t know whether it would be covered or not. But meanwhile, you can pay out-of-pocket as it is very important test.
+Ms. Koay, I am not sure. Could you please find out by calling your insurance company? If it is covered, I will order it.
+Ms. Koay, Mammogram is a very important screening test so it should be covered however; let me find out for you. Once you come next time, I will order Mammogram. Is that fine with you?
+1
+Screening mammogram is mostly covered by all insurance companies as it is proven screening test to detect breast cancer early. Many times, if patient changes her job, then, she may not know as it is not that simple to find out. As a physician, you should offer assistance in dealing with insurance company. You can also refer her to financial counselor if it is available in your clinic/hospital. Never post-pone any test as many times patient will not come back and you will lose that opportunity.
+Ms. Koay, I appreciate that you want to get mammogram. Generally most of the insurances cover screening mammogram. I will check with your insurance company. So let me order it.
+Challenge: Will my insurance cover Mammogram?
+doctor2.jpg
+A
+Q.36 A 28 year old female, Mrs. Erika Nabel, comes to clinic for annual physical examination. She denied any symptoms but express her desire to become pregnant. She smokes about 1 PPD for last 3 years and drinks alcohol occasionally. She recently read about bad effects of smoking on baby and wants to quit smoking. She asked you, "Doc, how long does it take to stop smoking?"
+Ms. Nabel, It depends on how quickly you quit smoking. You can do it as short as two weeks or might need more time. Therefore, I would suggest you not to become pregnant in next 6 months until you quit smoking.
+Ms. Nabel, I think you can do it in a week as it is not difficult. After that you can become pregnant.
+Ms. Nabel, I appreciate your decision to quit smoking. By doing so, you can avoid all long term complications of smoking as well as any bad effects on baby. Duration for smoking cessation varies, but once you stop smoking for a while, you can become pregnant.
+Ms. Nabel, It is good idea to quit smoking. However, it would be very difficult. You need to take nicotine patch or gums and it is hazardous to baby, so you should not become pregnant until you quit smoking.
+3
+Smoking has many deleterious health effects not only on pregnant female but also on baby. Therefore, decision to quit smoking should be always appreciated. Duration varies which depends on patient’s determination to quit smoking, dependence on nicotine and many other factors. During this period patient might need nicotine gum or patch that can affect baby as well. So until, patient quit smoking completely, pregnancy should be avoided.
+Ms. Nabel, I appreciate your decision to quit smoking. By doing so, you can avoid all long term complications of smoking as well as any bad effects on baby. Duration for smoking cessation varies, but once you stop smoking for a while, you can become pregnant.
+Challenge: Doc, I want to become pregnant. How long does it take to stop smoking?
+history.jpg
+C
+Q.37 A 22 year old male, Mr. Angel Hernandez, comes to clinic with complaining of bad breath for a month. He denied any other symptoms. On further questioning, you found that he has been using chewing tobacco. After physical examination, you explained him plan including recommendation to quit chewing tobacco. He replied you, "Doc, I don’t smoke. I just use smokeless tobacco."
+Mr. Hernandez, even if smokeless tobacco is injurious to your health. In addition, your current problem may be because of chewing tobacco. So I strongly recommend you to quit it. We have many resources available to help you. Would you like to try?
+Mr. Hernandez, You might be right as cigarette smoking is very dangerous to your health but smokeless tobacco is not that bad. So you can try taking my medicines, if problem persist then you should think about stopping it.
+Mr. Hernandez, I am not so sure, I think it is hazardous to your health as well, but let me find out for you.
+Mr. Hernandez, that is wrong information. You should quit even smokeless tobacco.
+1
+Many people have myth that smokeless tobacco is a safe alternative to cigarettes, although it is as dangerous as smoking. Tobacco-chewer become chemically dependent on them as nicotine can achieve higher blood concentration then smoker. It can also cause oral cancer, heart disease, teeth and gum disorders and many more. So, it should be explained to patient and strongly suggested to quit smoking.
+Mr. Hernandez, even if smokeless tobacco is injurious to your health. In addition, your current problem may be because of chewing tobacco. So I strongly recommend you to quit it. We have many resources available to help you. Would you like to try?
+Challenge: I am not smoking any more. I just use smokeless tobacco.
+bad-breath-treatment-halitosis.jpg
+A
+Q.38 A 22 year old male, Mr. Angel Hernandez, comes to clinic with complaining of non-productive cough for a month. He denied any other symptoms. On further questioning, you found that he smokes 5-8 light cigarettes every day for last 3 years. After physical examination, you explained him plan including recommendation to quit smoking. He replied you, "Doc, I just smoke light cigarettes. It is not that bad."
+Mr. Hernandez, I know light cigarettes are not that bad, but you should stop smoking as it can also cause lung cancer, COPD and heart diseases.
+Mr. Hernandez, that is totally wrong. Light cigarettes are nothing but cigarettes with tiny holes just where your fingers hold them. It is as dangerous as regular cigarettes. So I would suggest you to quit it.
+Mr. Hernandez, I agree with you but it can still cause various problems such as lung cancer, heart diseases and many more. So please quit it.
+Mr. Hernandez, Every cigarette can cause same problems. There is no difference between light cigarettes and regular cigarettes as light cigarettes have tiny holes just where your fingers hold them. So I would suggest you to quit smoking.
+4
+Cigarettes are cigarettes. There is no difference. Each can cause all kind of similar problems. So, patient should be informed as many people have myth that these kinds of cigarettes are good. Also you should offer full assistance to quit smoking.
+Mr. Hernandez, Every cigarette can cause same problems. There is no difference between light cigarettes and regular cigarettes as light cigarettes have tiny holes just where your fingers hold them. So I would suggest you to quit smoking.
+Challenge: I smoke only light cigarettes.
+smoking3.jpg
+D
+Q.39 You are seeing pediatrics patients and got a call from Mr. Thomas Ringler, father of a 2 year old boy, Jonny Ringler, comes with his father to clinic with complaining of fever and runny nose for a day. He also had non-productive cough for 2 days. He denied any other symptoms and also denied any recent travel. He goes to day-care center every day. His father askedyou, “Doc, did he get it from Day-Care Center?"
+Mr. Ringler, It is possible. To confirm it I will examine all day-care center children.
+Mr. Ringler, I do not think that he got it from day-care center as sick children are not allowed to be there.
+Mr. Ringler, I think you are right. He must get it from day-care center as many children get it from this way. So, please do not send him to day care center any more.
+Mr. Ringler, It could be possible. As many times child gets it from other children. You should not send him to day care center until he gets better.
+4
+Children often get infection via close contact either in day-care center or in school. Parents should be educated about it and be advised not to send their children to any where until they get better.
+Mr. Ringler, It could be possible. As many times child gets it from other children. You should not send him to day care center until he gets better.
+Challenge: Did he get it from Day-Care Center?
+cough2.jpg
+D
+Q.40 A 72 year old male, Mr. John Saag, comes to clinic with follow up after recently diagnosed with prostate cancer. His PET scan showed metastasis in multiple lumber vertebras. He got worried and asked you, "Doc, Will I die soon?"
+Mr. Saag, I am very sorry but it is a terminal stage of disease, I can’t do much. You will die soon.
+Mr. Saag, I am very sorry. I hope I can do something for you but as it is last stage of prostate cancer I can only give you pain medicines. Let me prescribe you pain medicines?
+Mr. Saag, I am very sorry to inform you but you should not worry. Recent advance in medicine allow us to cure your cancer. So let me admit you and start treatment as soon as possible.
+Mr. Saag, I can understand as it is very difficult situation. I am with you and will try my best to give you all possible treatments.  We also have various support groups and counselor for cancer patients. Would you like to join it?
+4
+Talk with cancer patient is always challenging as patient is very anxious and sometimes depressed as well. You should re-assure him that you will do everything possible to help him. Cancer treatment needs multi-disciplinary approach, so, radiation oncologist, surgical oncologist, medical oncologist, oncology social worker; support groups, palliative care team and family should be involved as soon as possible if appropriate.
+Mr. Saag, I can understand as it is very difficult situation. I am with you and will try my best to give you all possible treatments.  We also have various support groups and counselor for cancer patients. Would you like to join it?
+Challenge: Will I die soon?
+sad3.jpg
+D

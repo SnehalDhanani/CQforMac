@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'CQforMac' target in the 'CQforMac' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
