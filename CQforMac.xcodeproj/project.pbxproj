@@ -119,11 +119,6 @@
 		15C07E42152C64C700033370 /* Winner.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 15C07E3E152C64C700033370 /* Winner.m4a */; };
 		15C07E44152C668B00033370 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 15C07E43152C668B00033370 /* QuartzCore.framework */; };
 		15C2996114FE462A003AE584 /* lets_play.png in Resources */ = {isa = PBXBuildFile; fileRef = 15C2996014FE462A003AE584 /* lets_play.png */; };
-		15C44328154E9E76002702AE /* file4.txt in Resources */ = {isa = PBXBuildFile; fileRef = 15C44323154E9E3E002702AE /* file4.txt */; };
-		15C44329154E9E76002702AE /* file1.txt in Resources */ = {isa = PBXBuildFile; fileRef = 15C44324154E9E41002702AE /* file1.txt */; };
-		15C4432A154E9E76002702AE /* file5.txt in Resources */ = {isa = PBXBuildFile; fileRef = 15C44325154E9E49002702AE /* file5.txt */; };
-		15C4432B154E9E76002702AE /* file2.txt in Resources */ = {isa = PBXBuildFile; fileRef = 15C44326154E9E56002702AE /* file2.txt */; };
-		15C4432C154E9E76002702AE /* file3.txt in Resources */ = {isa = PBXBuildFile; fileRef = 15C44327154E9E64002702AE /* file3.txt */; };
 		15C4432E154EA90A002702AE /* cq_mainback-landscape-4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15C4432D154EA909002702AE /* cq_mainback-landscape-4.jpg */; };
 		15C44334154EAB52002702AE /* back-pain-921.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15C44333154EAB52002702AE /* back-pain-921.jpg */; };
 		15C44337154EABC6002702AE /* lower-back-pain1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15C44336154EABC6002702AE /* lower-back-pain1.jpg */; };
@@ -264,11 +259,6 @@
 		15C07E3E152C64C700033370 /* Winner.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Winner.m4a; sourceTree = "<group>"; };
 		15C07E43152C668B00033370 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		15C2996014FE462A003AE584 /* lets_play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lets_play.png; sourceTree = "<group>"; };
-		15C44323154E9E3E002702AE /* file4.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = file4.txt; sourceTree = "<group>"; };
-		15C44324154E9E41002702AE /* file1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = file1.txt; sourceTree = "<group>"; };
-		15C44325154E9E49002702AE /* file5.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = file5.txt; sourceTree = "<group>"; };
-		15C44326154E9E56002702AE /* file2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = file2.txt; sourceTree = "<group>"; };
-		15C44327154E9E64002702AE /* file3.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = file3.txt; sourceTree = "<group>"; };
 		15C4432D154EA909002702AE /* cq_mainback-landscape-4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "cq_mainback-landscape-4.jpg"; sourceTree = "<group>"; };
 		15C44333154EAB52002702AE /* back-pain-921.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "back-pain-921.jpg"; sourceTree = "<group>"; };
 		15C44336154EABC6002702AE /* lower-back-pain1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "lower-back-pain1.jpg"; sourceTree = "<group>"; };
@@ -395,11 +385,6 @@
 				15B400F4152323F20073C9DC /* cat2.png */,
 				15B400FD152326480073C9DC /* cat3.png */,
 				15B400FE152326480073C9DC /* cat4.png */,
-				15C44324154E9E41002702AE /* file1.txt */,
-				15C44326154E9E56002702AE /* file2.txt */,
-				15C44327154E9E64002702AE /* file3.txt */,
-				15C44323154E9E3E002702AE /* file4.txt */,
-				15C44325154E9E49002702AE /* file5.txt */,
 				15C2996014FE462A003AE584 /* lets_play.png */,
 				15B0240314FCD26A0021C823 /* mainbtn4.png */,
 				15C4432D154EA909002702AE /* cq_mainback-landscape-4.jpg */,
@@ -623,11 +608,6 @@
 				15E1CA8D154025DD00C8A9C7 /* quiz_main-2.jpg in Resources */,
 				15E1CA90154031F600C8A9C7 /* home.png in Resources */,
 				15E1CA921540330400C8A9C7 /* final_screen.jpg in Resources */,
-				15C44328154E9E76002702AE /* file4.txt in Resources */,
-				15C44329154E9E76002702AE /* file1.txt in Resources */,
-				15C4432A154E9E76002702AE /* file5.txt in Resources */,
-				15C4432B154E9E76002702AE /* file2.txt in Resources */,
-				15C4432C154E9E76002702AE /* file3.txt in Resources */,
 				15C4432E154EA90A002702AE /* cq_mainback-landscape-4.jpg in Resources */,
 				15C44334154EAB52002702AE /* back-pain-921.jpg in Resources */,
 				15C44337154EABC6002702AE /* lower-back-pain1.jpg in Resources */,
